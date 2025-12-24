@@ -4,7 +4,7 @@ from dataclasses import dataclass, asdict
 from pathlib import Path
 from typing import List, Dict, Any, Tuple
 
-import fitz  # PyMuPDF
+import fitz  # type: ignore # PyMuPDF
 from tqdm import tqdm
 
 
