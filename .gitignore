@@ -35,4 +35,7 @@ ENV/
 Thumbs.db
 
 # Project-specific
-backend/flashcards/ingest/output/
+backend/flashcards/ingest/output/*
+!backend/flashcards/ingest/output/*.json
+!backend/flashcards/ingest/output/*.jsonl
+!backend/flashcards/ingest/output/*.txt
