@@ -3,7 +3,6 @@ import re
 from dataclasses import dataclass, asdict
 from pathlib import Path
 from typing import List, Dict, Any, Callable, Optional
-
 from tqdm import tqdm
 
 try:

@@ -1,11 +1,16 @@
-import json
-import re
-from dataclasses import dataclass, asdict
-from pathlib import Path
-from typing import List, Dict, Any, Tuple
+import json # to save pages in json format
 
-import fitz  # type: ignore # PyMuPDF
-from tqdm import tqdm
+import re # regular expression library
+
+from dataclasses import dataclass, asdict # @dataclass means less boilerplate, asdict: dataclass -> python dict for json
+
+from pathlib import Path # easier way to work with files/folder paths
+
+from typing import List, Dict, Any, Tuple # purely for readability 
+
+import fitz  # type: ignore # PyMuPDF; pdf library
+
+from tqdm import tqdm # adds progress bar in command line when processing pdf file
 
 
 # ---------- Data model ----------
@@ -22,17 +27,20 @@ class PageData:
 
 def normalize_whitespace(text: str) -> str:
     """
-    Beginner-friendly cleaning:
     - normalize line endings
     - remove trailing spaces on lines
     - collapse excessive blank lines
     """
+    # replaces windows (\r\n) and old mac (r) new line chars with \n, so it is universal
     text = text.replace("\r\n", "\n").replace("\r", "\n")
+
+    # removes trailing spaces on ends
     text = "\n".join(line.rstrip() for line in text.split("\n"))
 
     # Collapse 3+ newlines into 2 newlines
     text = re.sub(r"\n{3,}", "\n\n", text)
 
+    # Removes whitespace on either end of text
     return text.strip()
 
 
@@ -65,7 +73,9 @@ def extract_page_text(doc: fitz.Document, page_index: int) -> str:
     Extract full-page text in a simple mode.
     """
     page = doc.load_page(page_index)
-    return page.get_text("text")  # simplest readable extraction
+
+    # asks PyMuPDF to return page's text in simple readable form
+    return page.get_text("text")  
 
 
 def extract_page_blocks(doc: fitz.Document, page_index: int) -> List[Dict[str, Any]]:
@@ -103,6 +113,8 @@ def ingest_pdf(pdf_path: str, skip_first_pages: int = 0) -> List[PageData]:
     pages: List[PageData] = []
 
     start_index = skip_first_pages  # 0-based
+
+    # 'desc="Extracting Pages"' is optional, it's simply a prefix for the progress bar
     for page_index in tqdm(range(start_index, doc.page_count), desc="Extracting pages"):
         raw_text = extract_page_text(doc, page_index)
         cleaned_text = basic_clean(raw_text)
@@ -122,7 +134,7 @@ def ingest_pdf(pdf_path: str, skip_first_pages: int = 0) -> List[PageData]:
     return pages
 
 
-
+# Some pretty basic file I/O work
 def save_outputs(pages: List[PageData], out_dir: str) -> None:
     out_path = Path(out_dir)
     out_path.mkdir(parents=True, exist_ok=True)
@@ -144,9 +156,9 @@ def save_outputs(pages: List[PageData], out_dir: str) -> None:
     print(f"- {json_path}")
     print(f"- {txt_path}")
 
-
+# only run main if this file itself is run
 if __name__ == "__main__":
-    PDF_PATH = "data/fortyHadiths.pdf"  # <-- rename your file to match this
+    PDF_PATH = "data/fortyHadiths.pdf"  
     OUT_DIR = "output"
 
     if not Path(PDF_PATH).exists():
