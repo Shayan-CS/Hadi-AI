@@ -27,7 +27,7 @@ def contains_arabic(text):
     arabic_pattern = re.compile(r'[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF]')
     return bool(arabic_pattern.search(text))
 
-text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=100)
+text_splitter = RecursiveCharacterTextSplitter(chunk_size=1500, chunk_overlap=150)
 
 docs = text_splitter.split_documents(docs)
 
