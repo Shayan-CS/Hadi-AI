@@ -1,358 +1,786 @@
 [
   {
-    "question": "What does the hadith narrated by Abu Hafs 'Umar bin al-Khattab indicate about the importance of intentions in actions?",
-    "answer": "The hadith states that actions are judged by motives (niyyah), meaning each person will receive the consequence of their intentions; if one's migration (hijrah) was for Allah and His Messenger, it is accepted as such, but if it was for worldly gain or personal reasons, it is regarded according to that intention."
+    "type": "definition",
+    "question": "What does 'zuhd' mean in the context of Islamic teachings?",
+    "answer": "'Zuhd' refers to detachment from worldly possessions and reliance on Allah, encompassing three actions of the heart: trusting in Allah's provisions, being unbothered by worldly losses, and remaining indifferent to praise or blame.",
+    "context": "Understanding 'zuhd' is essential for Muslims aiming to cultivate spiritual detachment and reliance on Allah.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What principle does the Prophet, sallallahu 'alayhi wasallam, emphasize in the hadith regarding actions?",
-    "answer": "\"Actions are judged by intentions.\""
+    "type": "principle",
+    "question": "What is a key takeaway about wealth and being zahid?",
+    "answer": "A person can still be considered a zahid even if they possess wealth, as long as they do not feel joy from its increase or sadness from its decrease, and use their wealth in a thankful and righteous manner.",
+    "context": "This principle encourages Muslims to maintain a healthy perspective on wealth and possessions.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "Who was the questioner that came to teach about religion, and what important concept did he discuss regarding serving Allah?",
-    "answer": "The questioner was Jibril, and he emphasized that one should serve Allah as though they could see Him, even though they cannot see Him."
+    "type": "principle",
+    "question": "What is the responsibility of educators and da'ies in the context of technology and Muslim youth?",
+    "answer": "Educators and da'ies are responsible for upgrading the internal controlling system of Muslims, particularly the youth, to navigate the challenges posed by technology and intellectual manipulation.",
+    "context": "This principle emphasizes the need for proactive measures to protect Muslim values in the digital age.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What did 'Umar bin al-Khattab demonstrate about dealing with qadar in the context of illness and hardship during his leadership?",
-    "answer": "'Umar bin al-Khattab demonstrated that while qadar (destiny) exists, one should actively seek solutions to challenges, such as avoiding a contagious disease, which he viewed as moving from one qadar to another qadar."
+    "type": "context",
+    "question": "In what circumstances should a Muslim not be affected by praise or blame?",
+    "answer": "A Muslim should remain unaffected by praise or blame from others, focusing instead on their relationship with Allah and striving for self-improvement regardless of external opinions.",
+    "context": "This context emphasizes the importance of inner spiritual focus over external validation.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What does Islam teach about personal responsibility in relation to committing sins and fulfilling religious obligations?",
-    "answer": "Islam teaches that individuals are responsible for their actions and cannot blame qadar (divine decree) for committing sins or failing to fulfill religious obligations; it emphasizes the importance of repentance and returning to the right path."
+    "type": "principle",
+    "question": "What is the key takeaway from the Hadith regarding beliefs and obligations in Islam?",
+    "answer": "The Hadith emphasizes that one must testify to the oneness of Allah and the prophethood of Muhammad, perform prayers, and pay zakat to gain protection for their lives and property.",
+    "context": "This principle outlines the fundamental beliefs and practices required for safety and community membership in Islam.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What are the three components that the Prophet Muhammad defined as part of the deen, and how are they interrelated?",
-    "answer": "The three components are Al-Islam (outward actions), Al-Iman (inner belief), and Al-Ihsan (the highest level of worship). Al-Islam and Al-Iman can be interchanged, and when either term is used on its own, it encompasses all three components."
+    "type": "context",
+    "question": "Why is the concept of 'wilayah' often misunderstood in contemporary Islam?",
+    "answer": "The misunderstanding arises from individuals claiming 'wilayah' without matching their actions to Islamic teachings, leading to confusion about true spiritual closeness.",
+    "context": "This context highlights the ongoing relevance of correcting misconceptions in the Muslim community.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What metaphor is used in Surah An-Nur (24): ayat 35 to describe the guidance in the heart of the Mua'min?",
-    "answer": "The metaphor of light is used to represent the light of guidance in the heart of the Mua'min."
+    "type": "context",
+    "question": "Why is the concept of 'wilayah' often misunderstood in contemporary Islam?",
+    "answer": "The misunderstanding arises from individuals claiming 'wilayah' without matching their actions to Islamic teachings, leading to confusion about true spiritual closeness.",
+    "context": "This context highlights the ongoing relevance of correcting misconceptions in the Muslim community.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What is the obligation regarding Zakat according to the scholars mentioned in the text?",
-    "answer": "Knowing the details of Zakat becomes an obligation when a person owns the type of property that requires them to give Zakat, such as for farmers, traders, or property owners."
+    "type": "principle",
+    "question": "What should Muslims prioritize if they can perform Hajj multiple times?",
+    "answer": "Muslims should prioritize using their financial means to help others fulfill their obligations or to better their community rather than performing Hajj multiple times.",
+    "context": "This principle emphasizes community support and the collective good over individual acts.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What are the two views regarding the timing of when the ruh is breathed into the fetus according to scholars, and how does this affect the Fatwa on abortion?",
-    "answer": "The first view states that the ruh is breathed into the fetus after 120 days, allowing abortion only before that time for serious reasons. The second view argues that the ruh is breathed into the fetus after 40 days, allowing abortion only before that time."
+    "type": "definition",
+    "question": "What is 'relative bid'ah' in Islamic worship?",
+    "answer": "'Relative bid'ah' refers to a form of worship that has general evidence from the Qur'an or sunnah but lacks explicit evidence, such as performing du'a in congregation.",
+    "context": "This concept helps distinguish acceptable innovations in worship from those that are not supported by Islamic texts.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What are the two categories of Al-Qadar as described in the text?",
-    "answer": "1. Al-Qadar al-Kulli (the general qadar recorded in Al-Lauhulmahfudz) and 2. Al-Qadar al-Sanawi (the annual qadar that occurs once a year, such as Lailatul qadar)."
+    "type": "context",
+    "question": "What is the significance of Imam Ahmad Zarouq's category of 'un-agreed upon heresy'?",
+    "answer": "It highlights that certain practices may be considered acceptable by some scholars while deemed as bid'ah by others, reflecting the diversity of scholarly opinions.",
+    "context": "This context shows the complexity of defining acceptable innovations in Islamic practice.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What effect did the scholars' presentation of the Islamic perspective on the stages of the fetus have on some attendees of the conference?",
-    "answer": "Some attendees embraced Islam, believing it to be a Divine revelation."
+    "type": "principle",
+    "question": "What is the key takeaway regarding food and its impact on behavior according to the text?",
+    "answer": "The food we eat affects our attitude and behavior, and consuming pure (at-Tayyib) food in moderation is essential for improving our faith and devotion to Allah.",
+    "context": "This principle emphasizes the Islamic perspective on the importance of food choices for spiritual and moral development."
   },
   {
-    "question": "What internal and external factors influence a person's decision to perform bad deeds according to the text?",
-    "answer": "Internal factors include faith and the blaming self, while external factors involve existing prohibitions (muharamat) that activate desires (hawa) and lead to bad deeds."
+    "type": "context",
+    "question": "Why do many Muslims face dangers during Hajj?",
+    "answer": "Many Muslims face dangers during Hajj due to negligence and violations of adab and sunan, such as improper stone throwing and ignoring crowd control measures.",
+    "context": "Understanding these dangers highlights the importance of following guidelines to ensure safety during the pilgrimage.",
+    "arabic": null,
+    "transliteration": null
   },
   {
+    "type": "principle",
+    "question": "What is the significance of being 'mukallaf' in Islamic context?",
+    "answer": "'Mukallaf' refers to a person who is responsible and accountable for understanding and accepting the message of Allah, contingent upon their mental soundness.",
+    "context": "This principle underscores the importance of mental capacity in the moral and religious obligations of individuals."
+  },
+  {
+    "type": "definition",
+    "question": "What is the definition of 'anibadah' in Islamic context?",
+    "answer": "Anibadah refers to actions that are considered acts of worship in Islam, which may involve receiving rewards or facing punishment based on their performance.",
+    "context": "This definition is crucial for understanding the categorization of actions in Islamic teachings.",
+    "arabic": null,
+    "transliteration": null
+  },
+  {
+    "type": "definition",
+    "question": "What is Hajj?",
+    "answer": "Hajj is the pilgrimage to the House (Kaabah) that is obligatory for Muslims to perform at least once in their lifetime if they meet certain conditions.",
+    "context": "Hajj is one of the Five Pillars of Islam and represents a significant religious duty.",
+    "arabic": null,
+    "transliteration": null
+  },
+  {
+    "type": "principle",
+    "question": "What is a key takeaway about the relationship between humans and Allah in Islam?",
+    "answer": "Humans are always in need of Allah, who is self-sufficient, and they should express their dependence on Him through constant remembrance and gratitude.",
+    "context": "This principle emphasizes the importance of recognizing our reliance on Allah for all aspects of life.",
+    "arabic": null,
+    "transliteration": null
+  },
+  {
+    "type": "principle",
+    "question": "What key takeaway does the Hadith convey about good deeds and Allah's bounties?",
+    "answer": "Even after 70 years of worship and good deeds, a person cannot repay Allah for one of His bounties, highlighting the immeasurable nature of His mercy.",
+    "context": "This principle emphasizes the importance of recognizing and appreciating Allah's blessings in our lives.",
+    "arabic": null,
+    "transliteration": null
+  },
+  {
+    "type": "definition",
     "question": "What are the two types of guidance (hidayah) mentioned in the text?",
-    "answer": "(i) To the path is becoming a Muslim and (ii) Within the path is increasing our faith."
+    "answer": "The two types of guidance are (i) guidance to the path, which is becoming a Muslim, and (ii) guidance within the path, which is increasing our faith.",
+    "context": "This definition is important for understanding the different aspects of spiritual guidance in Islam.",
+    "arabic": null,
+    "transliteration": null
   },
-  {
-    "question": "What does the Messenger of Allah, as narrated by Umm 'Abdullah 'Aishah, say about introducing new things into Islam?",
-    "answer": "He stated that \"whosoever introduces into this affair of ours something that does not belong to it, it is to be rejected.\""
+  {
+    "type": "principle",
+    "question": "What is the primary principle regarding advising leaders in Islam?",
+    "answer": "The primary principle is that leaders should accept sincere advice, and followers must help, obey, and remind them with respect and good intentions.",
+    "context": "This principle emphasizes the importance of constructive advice and maintaining stability within the Muslim community.",
+    "arabic": null,
+    "transliteration": null
   },
-  {
-    "question": "What should Muslims understand about the obligation of offering a sacrifice if they cannot afford it, and how does this relate to the actions of the Prophet Muhammad?",
-    "answer": "Muslims do not have to perform the sacrifice if they cannot afford it as it is not obligatory (awajib). The actions of the Prophet Muhammad, such as certain practices done from time to time, should be observed to avoid misconceptions about their obligatory nature."
+  {
+    "type": "principle",
+    "question": "What is the recommended approach to complaining according to the text?",
+    "answer": "We should lament only with Allah and refrain from complaining to others, as it can lead to impatience and violate the principle of patience (sabr).",
+    "context": "This principle encourages a constructive approach to expressing frustrations while maintaining a positive attitude.",
+    "arabic": null,
+    "transliteration": null
   },
-  {
-    "question": "How can we differentiate between the actions of the Prophet Muhammad that were done for the purpose of ibadah and those that were not?",
-    "answer": "Actions commanded by the Prophet Muhammad or prohibitions he set are considered ibadah; actions done out of custom or for practical reasons are not."
+  {
+    "type": "context",
+    "question": "What challenge does intellectual slavery pose to Muslims?",
+    "answer": "Intellectual slavery involves manipulation through technology and globalization that can lead Muslims to question their beliefs and moral values.",
+    "context": "Understanding this challenge is crucial for educators in addressing the effects of cognitive psychology and brainwashing.",
+    "arabic": null,
+    "transliteration": null
   },
-  {
-    "question": "What does Islam being described as a complete religion imply about the introduction of new practices or deletions from it?",
-    "answer": "It implies that there should be no additions or deletions to the religion, as it is perfect and any such actions would be an affront to Allah and the Prophet Muhammad (sallallahu 'alayhi wasallam)."
+  {
+    "type": "tarkeeb",
+    "question": "What is the grammatical structure of 'awliya'u Allah' in Arabic?",
+    "answer": "'Awliya'u Allah' means 'the friends of Allah', where 'awliya' is the plural of 'wali' (friend/guardian) and 'Allah' is the proper noun for God.",
+    "context": "Understanding this structure is essential for grasping key Islamic terms related to spiritual relationships.",
+    "arabic": "أولياء الله",
+    "transliteration": "Awliya'u Allah"
   },
-  {
-    "question": "What is the main principle regarding the performance of ibadah according to the text?",
-    "answer": "The main principle is that we should not attach hardship to our ibadah in hopes of increased reward; instead, we should choose the easier way to perform it, as Shariah is based on ease."
+  {
+    "type": "definition",
+    "question": "What is Al-Lauhulmahfudz?",
+    "answer": "Al-Lauhulmahfudz is the preserved tablet where Allah recorded His ultimate knowledge of all creations and their actions before they occurred.",
+    "context": "This definition is significant in Islamic theology as it relates to divine knowledge and predestination.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What is the purpose of the hadiths selected by al-Imam al-Nawawi according to the text?",
-    "answer": "They serve as principles and criteria that help Muslims practice easily and fulfill their daily religious obligations."
+    "type": "principle",
+    "question": "What is the key takeaway regarding human responsibility in relation to Qadar (divine decree)?",
+    "answer": "Humans are responsible for their choices, as they have the willingness and ability to act, despite Allah's prior knowledge of their actions.",
+    "context": "This principle emphasizes the balance between divine knowledge and human agency in Islamic belief.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What does the placement of the first hadith in Kitab al-Buyu' by Imam al-Bukhari imply about the nature of trading?",
-    "answer": "It implies that doubtful matters are related to the things that we buy and sell, indicating the importance of ensuring that trade is conducted with halal (permissible) items."
+    "type": "principle",
+    "question": "What is the key principle regarding the actions of the Prophet Muhammad (sallallahu 'alayhi wasallam) in relation to ibadah?",
+    "answer": "Actions of the Prophet that were customary and not specifically commanded for ibadah should not be imitated for the purpose of ibadah today.",
+    "context": "This principle distinguishes between cultural practices and actions intended for worship in Islamic tradition."
   },
   {
-    "question": "What distinguishes Abu Bakr as-Sidiq according to the Prophet Muhammad, and what should Muslims do to ensure their hearts are sound?",
-    "answer": "Abu Bakr as-Sidiq's iman outweighs that of the entire Muslim ummah, and Muslims should purify their hearts, activate iman, and avoid negative traits like greediness, envy, and arrogance to ensure their hearts are sound."
+    "type": "principle",
+    "question": "What is the essential principle behind 'iqamatus salah' in Islam?",
+    "answer": "'Iqamatus salah' involves not just performing prayers but fulfilling specific conditions such as proper wudu, timeliness, and congregation.",
+    "context": "This principle emphasizes the importance of adhering to the prescribed practices of prayer in Islam.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "Why is it important to say or write \"sallallahu 'alayhi wasallam\" in full when mentioning the Prophet?",
-    "answer": "It is important because it is encouraged, and those who do not say it when the Prophet's name is mentioned are considered greedy according to the Prophet's teachings."
+    "type": "principle",
+    "question": "What is a key takeaway regarding the use of weapons of mass destruction in Islam?",
+    "answer": "Weapons of mass destruction are generally prohibited in Islam, but some scholars allow their use in self-defense against enemies of Islam.",
+    "context": "This principle highlights the ethical considerations in Islamic teachings regarding warfare and violence.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What is the main principle of the hadith regarding the heart and the body?",
-    "answer": "The main principle is that if the heart is sound, the whole body is sound; if the heart is corrupt, the whole body is corrupt."
+    "type": "definition",
+    "question": "What is the role of the defendant in a legal dispute?",
+    "answer": "The defendant is the individual who is accused or challenged by the plaintiff and is presumed free from liability until proven otherwise.",
+    "context": "This definition is important for comprehending legal responsibilities and rights.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What is the recommended approach to teaching about the Sunnah according to the text?",
-    "answer": "The recommended approach is to start with the highest level of Sunnan, ensuring that people understand and love the basic concepts before gradually introducing lower levels and more details."
+    "type": "definition",
+    "question": "What is the role of the defendant in a legal dispute?",
+    "answer": "The defendant is the individual who is accused or challenged by the plaintiff and is presumed free from liability until proven otherwise.",
+    "context": "This definition is important for comprehending legal responsibilities and rights.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What are the key principles of giving nasiha (sincere advice) to Muslim leaders?",
-    "answer": "The key principles include having good intentions, advising mildly and respectfully, avoiding harshness and embarrassment, not divulging their wrong-doings, helping them in good, obeying in what is right, reminding them if they err, being patient, and praying for their guidance."
+    "type": "principle",
+    "question": "What principle distinguishes acceptable forms of ibadah from bid'ah?",
+    "answer": "An ibadah cannot be formulated without evidence from revelation (wahy), and any act not aligned with the Prophet's way will be rejected.",
+    "context": "This principle guides Muslims to adhere strictly to established practices in worship.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What are the conditions under which the messenger of Allah grants protection to people's lives and property according to the hadith narrated by Abdullah bin Omar?",
-    "answer": "Protection is granted if they testify that there is no god but Allah and that Muhammad is the messenger of Allah, and if they perform prayers and pay zakat."
-  },
+    "type": "principle",
+    "question": "What lesson does Abu Muslim Al-Hawlani teach about zuhd in this world?",
+    "answer": "Zuhd does not mean forbidding permissible things or wasting wealth; it is about putting more trust in Allah than in worldly possessions.",
+    "context": "This principle encourages a focus on spiritual trust over material attachment.",
+    "arabic": null,
+    "transliteration": null
+  },
+  {
+    "type": "context",
+    "question": "Why is Damascus significant in Imam Nawawi's education?",
+    "answer": "Damascus was considered the center of learning and scholarship during Imam Nawawi's time, where he studied under celebrated teachers.",
+    "context": "The city played a crucial role in shaping his scholarly pursuits and knowledge.",
+    "arabic": null,
+    "transliteration": null
+  },
+  {
+    "type": "principle",
+    "question": "What is a key takeaway regarding the impact of religious perspectives on belief?",
+    "answer": "Religious perspectives, particularly those grounded in sacred texts, can significantly influence individuals' beliefs and decisions.",
+    "context": "This principle is illustrated by attendees embracing Islam after hearing scholars discuss its teachings on fetal development.",
+    "arabic": null,
+    "transliteration": null
+  },
   {
-    "question": "What methods are being used today by evil doers to promote evil and alter perceptions?",
-    "answer": "Evil doers are using methods such as media and technology, including pictures and spoken or written words, to change perceptions and influence attitudes and values."
-  },
+    "type": "context",
+    "question": "What significance does Imam al-Bukhari's choice of hadith at the beginning of Kitab al-Buyu' have?",
+    "answer": "It highlights the importance of avoiding doubtful matters in trade, reflecting his father's influence on his understanding of halal.",
+    "context": "This choice sets the tone for the book and underscores the ethical considerations in transactions.",
+    "arabic": null,
+    "transliteration": null
+  },
   {
-    "question": "What should Muslim educators and intellectuals focus on regarding technology and its use in da'wah?",
-    "answer": "They should master technology and control its use for their benefit, employing it as a form of counter manipulation to positively influence perceptions within the Muslim community, utilizing Qur'anic styles of metaphorical and analytical thinking in their dialogues."
-  },
+    "type": "principle",
+    "question": "What is the key takeaway regarding intentions in actions according to the text?",
+    "answer": "The intention behind an action is crucial in determining its nature, and actions can be judged based on the intentions behind them.",
+    "context": "This principle is significant in Islamic teachings, emphasizing that actions are evaluated by the intentions behind them.",
+    "arabic": null,
+    "transliteration": null
+  },
   {
-    "question": "What is a significant characteristic of Shariah (Islamic Law) regarding fulfilling obligations?",
-    "answer": "Shariah is characterized by its flexibility and practicality, allowing individuals to fulfill obligations based on their ability and capacity."
+    "type": "principle",
+    "question": "What is a key takeaway regarding worldly life and obligations towards Allah?",
+    "answer": "The worldly life is a test that can either draw us closer to Allah or lead us astray, depending on how we fulfill our obligations.",
+    "context": "This principle highlights the importance of intention and action in achieving spiritual fulfillment."
   },
-  {
-    "question": "What is the significance of consuming 'at-Tayyib' food and adhering to proper manners according to Islamic teachings?",
-    "answer": "Consuming 'at-Tayyib' food and observing proper manners leads to better attitudes and behaviors, increased Iman, a purer heart devoted to Allah, and ultimately results in being 'tayyibun', pure and blessed by Allah."
+  {
+    "type": "principle",
+    "question": "What is the key takeaway regarding permissible acts in Islam?",
+    "answer": "If something is clearly permissible in shariah, there is no point in refraining from it with the intention of it being an ibadah.",
+    "context": "This principle emphasizes the importance of understanding and acting upon clear permissibility in Islamic law.",
+    "arabic": null,
+    "transliteration": null
+  },
+  {
+    "type": "principle",
+    "question": "What is the principle related to calling others to Allah according to the text?",
+    "answer": "The Caller must possess clear knowledge of good and evil and understand the situation of the person being commanded or forbidden.",
+    "context": "This principle emphasizes the importance of knowledge in guiding others effectively.",
+    "arabic": null,
+    "transliteration": null
+  },
+  {
+    "type": "principle",
+    "question": "What is a key takeaway about the treatment of neighbors in Islam?",
+    "answer": "One should ensure that their neighbor feels safe and should be patient and generous towards them, even if they cause annoyance.",
+    "context": "This principle emphasizes the importance of good neighborly relations in Islamic teachings.",
+    "arabic": null,
+    "transliteration": null
+  },
+  {
+    "type": "principle",
+    "question": "What does preserving and safeguarding salah signify for a believer according to the hadith?",
+    "answer": "It signifies that the salah will intercede for the believer on the Day of Judgment and serve as a light, proof, and safe place.",
+    "context": "This principle highlights the spiritual importance of performing salah correctly and consistently in a believer's life.",
+    "arabic": null,
+    "transliteration": null
+  },
+  {
+    "type": "principle",
+    "question": "What is the principle regarding responding to misfortune in Islam?",
+    "answer": "When faced with misfortune, such as losing a job, one should actively seek solutions rather than passively accept it as qadar.",
+    "context": "This principle emphasizes the importance of taking action in response to life's challenges while recognizing divine will.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What is the key advice given by the Messenger of Allah, as reported by Abu Muhammad al-Hasan bin Ali?",
-    "answer": "\"Leave that about which you are in doubt for that about which you are in no doubt.\""
+    "type": "definition",
+    "question": "What does 'Al-Fitrah' refer to in the context of human nature?",
+    "answer": "Al-Fitrah refers to the natural disposition or innate qualities that enable humans to love what is good and hate what is evil.",
+    "context": "Understanding Al-Fitrah is essential for recognizing the inherent moral inclinations within human beings.",
+    "arabic": "الفطرة",
+    "transliteration": "Al-Fitrah"
   },
   {
-    "question": "In a situation where a person is uncertain about the number of rakaats they have prayed, what should they do?",
-    "answer": "They should continue their prayer with the number they are certain of, for example, if they are sure they have prayed one rakaat, they should continue with the second one."
+    "type": "context",
+    "question": "In what context is the concept of Ihsan applied according to the text?",
+    "answer": "Ihsan is applied to all actions of a Muslim, emphasizing the importance of good conduct and intention in all aspects of life.",
+    "context": "Understanding the application of Ihsan helps Muslims strive for moral excellence.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What should one do if they are unsure about the permissibility of an act in Islamic law, according to Shaykh Jamaluddin Zarabozo?",
-    "answer": "It is better to avoid acts which we are not sure of or where there are no clear views from scholars."
+    "type": "context",
+    "question": "In what context is the concept of Ihsan applied according to the text?",
+    "answer": "Ihsan is applied to all actions of a Muslim, emphasizing the importance of good conduct and intention in all aspects of life.",
+    "context": "Understanding the application of Ihsan helps Muslims strive for moral excellence.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What does the hadith provide Muslims with in relation to doubtful acts and situations?",
-    "answer": "The hadith equips Muslims with a practical criterion to judge doubtful acts and situations, helping them make the right decisions."
+    "type": "principle",
+    "question": "What is the key takeaway from the Prophet's warning against envy and hatred?",
+    "answer": "Belief and love for one another are essential for entering paradise, and spreading peace among each other fosters this love.",
+    "context": "This principle highlights the importance of community and positive relationships in Islam.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What should we focus on to avoid wasting our time and effort?",
-    "answer": "We should focus on matters that are of benefit to us and to the ummah."
+    "type": "principle",
+    "question": "What is a key takeaway regarding the concept of 'haya'?",
+    "answer": "Both natural and acquired 'haya' are essential; the latter is developed through understanding Allah's glory and attributes.",
+    "context": "This principle illustrates the importance of spiritual awareness in fostering moral behavior."
   },
   {
-    "question": "What should be the basis for considering someone a brother in Islam and deserving of our support, according to the text?",
-    "answer": "The basis should be that people with the minimum level of Islam should be considered brothers, and we should care for them and love for them what we love for ourselves."
+    "type": "definition",
+    "question": "What does 'Husnul-Istimaa' mean?",
+    "answer": "'Husnul-Istimaa' refers to good listening, which involves being attentive to the needs, feelings, and complaints of others.",
+    "context": "This concept is important in communication and interpersonal relationships.",
+    "arabic": "حسن الاستماع",
+    "transliteration": "Husnul-Istimaa'"
   },
   {
-    "question": "What are the different manners in which the hadith can be practiced according to the text?",
-    "answer": "The hadith can be practiced through advising, giving charity, enjoining goodness, and forbidding evil."
+    "type": "principle",
+    "question": "What is the principle regarding the love and hate of a believer in relation to Allah?",
+    "answer": "A believer must love what Allah loves and hate what Allah hates to fulfill their obligations and attain additional rewards.",
+    "context": "This principle emphasizes the importance of aligning one's feelings with divine guidance as a measure of true faith.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What are the three classes of individuals whose blood is lawful to shed according to the hadith narrated by Ibn Mas’ud?",
-    "answer": "A married man who is an adulterer, a person guilty of murder (life for a life), and one who deserts his religion, abandoning the community."
+    "type": "tarkeeb",
+    "question": "What is the grammatical structure of the phrase 'لَا يُبَالِي' (he does not care) in Arabic?",
+    "answer": "The phrase 'لَا يُبَالِي' uses the negation 'لَا' followed by the verb 'يُبَالِي' (to care), indicating a lack of concern.",
+    "context": "Understanding this structure aids in grasping how negation works in Arabic sentences.",
+    "arabic": "لَا يُبَالِي",
+    "transliteration": "la yubāli"
   },
   {
-    "question": "What is the difference between lamenting with Allah and complaining to others, according to the text?",
-    "answer": "Lamenting with Allah is considered munajah and turns into ibadah, while complaining to others is seen as tashakki and violates the principle of sabr."
+    "type": "context",
+    "question": "What was the context of Mu'adh's question to the Prophet Muhammad?",
+    "answer": "Mu'adh asked the Prophet about a deed that would ensure his entry into Paradise, reflecting his eagerness for good deeds.",
+    "context": "This interaction illustrates the importance of seeking knowledge about righteous actions in Islam.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What should a person do if their neighbor causes them annoyance, according to a hadith?",
-    "answer": "They should remain patient and tolerate the neighbor."
+    "type": "principle",
+    "question": "What is the importance of proof in the administration of justice?",
+    "answer": "Proof is essential as it restrains false, weak, and unsubstantiated claims, placing the burden of proof on the plaintiff.",
+    "context": "This principle is crucial in legal contexts to ensure fair adjudication.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What is the general scholarly opinion on the act of hosting according to the text?",
-    "answer": "The majority of scholars consider hosting to be recommended (mustahab) and not obligatory (wajib), although it is viewed as a great and noble act."
+    "type": "principle",
+    "question": "What is the principle of Tadarruj in the context of forbidding evil?",
+    "answer": "Tadarruj refers to the gradual method of addressing issues, exemplified by the step-by-step prohibition of wine in Islam.",
+    "context": "This principle emphasizes the importance of a gradual approach to instilling moral values and prohibitions.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What should a person do when they become angry, according to the teachings of the Prophet Muhammad (sallallahu ‘alayhi wasallam)?",
-    "answer": "A person should perform ablution, sit down, or lie down if necessary, and remain silent to avoid incorrect actions and speech."
+    "type": "context",
+    "question": "What contemporary issue is highlighted regarding business transactions in Islam?",
+    "answer": "Many business transactions today may contain implicit aspects of riba', leading to confusion about their acceptability.",
+    "context": "This context points to the challenges Muslims face in navigating modern financial dealings in accordance with Islamic principles.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What is the potential benefit of being patient towards others who have been harsh?",
-    "answer": "It may lead them to think and change themselves to be better."
+    "type": "tarkeeb",
+    "question": "What is the structure for expressing the importance of manners in eating in Arabic?",
+    "answer": "The phrase 'adab' (manners) combined with eating signifies the Islamic etiquette that should be followed during meals.",
+    "context": "The usage of 'adab' in relation to eating emphasizes the significance of manners in Islamic teachings."
   },
   {
-    "question": "What is the significance of the hadith regarding the camel and how does it relate to the treatment of animals in Islam?",
-    "answer": "The hadith illustrates that animals should not be overburdened and must be treated with care, as demonstrated when the Prophet Muhammad relayed the camel's complaint about being overworked and underfed. This reflects the Islamic principle of Ihsan, emphasizing mercy and ethical treatment towards animals."
+    "type": "principle",
+    "question": "What can be learned from Imam Nawawi's life regarding educational dedication?",
+    "answer": "Imam Nawawi's extensive writings in a short life exemplify the importance of dedication and commitment to knowledge.",
+    "context": "His productivity highlights how focused effort can lead to significant contributions in a field.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What is the stance of some contemporary scholars on the use of mass destruction weapons by Muslims if used in response to enemies of Islam?",
-    "answer": "Some contemporary scholars say that Muslims are allowed to use mass destruction weapons only in response and as a counteract."
+    "type": "tarkeeb",
+    "question": "What is the grammatical structure of 'al-Hamdulillah'?",
+    "answer": "'Al-Hamdulillah' is a phrase that combines the definite article 'al-' with 'Hamd' and 'lillah' to express gratitude.",
+    "context": "This structure highlights the importance of attributing praise specifically to Allah.",
+    "arabic": "الحمد لله",
+    "transliteration": "al-Hamdulillah"
   },
   {
-    "question": "What are the key pieces of advice the Prophet Muhammad gives to Abdullah bin Abbas in the hadith?",
-    "answer": "Be mindful of Allah, and Allah will protect you; ask and seek help from Allah; understand that nothing can benefit or harm you except what Allah has recorded for you; know that victory comes with patience, relief with affliction, and ease with hardship."
+    "type": "principle",
+    "question": "What is the key takeaway from the hadith narrated by Umar bin al-Khattab regarding actions and intentions?",
+    "answer": "Actions are judged by motives, meaning individuals will be rewarded based on their intentions behind those actions.",
+    "context": "This principle emphasizes the importance of intentions in Islamic teachings.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What are the two aspects of haya' mentioned in the text, and how is acquired haya' attained?",
-    "answer": "The two aspects of haya' are natural haya' and acquired haya'. Acquired haya' is attained as a result of knowing and realizing the Glory of Allah and His attributes."
+    "type": "context",
+    "question": "How are questions used in the Quran?",
+    "answer": "The Quran contains over 1,200 questions that serve to provoke thought and encourage readers to reflect on the text.",
+    "context": "This context highlights the pedagogical role of questions in religious texts for deepening understanding.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What are some negative consequences of distorted haya' (modesty) as mentioned in the text?",
-    "answer": "Distorted haya' can lead to higher chances of committing sins, neglecting obligations, and engaging in criminal activities, as well as using haya' to justify inaction against falsehood or oppression."
+    "type": "principle",
+    "question": "What is the significance of fasting specific days like Ashura' and Arafah in Islam?",
+    "answer": "Fasting on specific days such as Ashura' and Arafah is significant for spiritual benefits and seeking intercession.",
+    "context": "These fasting days are observed for their special status in Islamic tradition and the potential for divine intercession.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What are the four key concepts related to making a commitment in Islam as described in the text?",
-    "answer": "1. Commitment (Musharatah) to steadfastness and adherence to Islam; 2. Continuous efforts (Mujahadah) to realize the commitment; 3. Continuous checking and reviewing of one's deeds (Muraqabah) to ensure honesty and accountability."
+    "type": "principle",
+    "question": "What is the key principle regarding materialism mentioned in the text?",
+    "answer": "One should not take more than what he needs and should avoid being weighed down by materialistic things or wealth.",
+    "context": "This principle emphasizes the importance of moderation and simplicity in life.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What should educators and preachers consider when answering questions from new converts to Islam?",
-    "answer": "They should take into account the background or status of the questioner, as different people may require different answers or approaches based on their cultural or environmental context."
+    "type": "principle",
+    "question": "What is the importance of making a commitment in Islam according to the text?",
+    "answer": "One must make a steadfast commitment to adhere to the principles of Islam and do things in the best way possible.",
+    "context": "This principle highlights the importance of dedication and integrity in practicing one's faith.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What does the term 'al-tuhur' refer to according to Al-Imam Ibn Rajab, and what are the reasons for this interpretation?",
-    "answer": "The term 'al-tuhur' refers to ritual purification by water (wudu'). Ibn Rajab supports this interpretation because another version of the hadith states that wudu' is 'half of iman', and Imam Muslim recorded the hadith in chapters related to ablution."
+    "type": "principle",
+    "question": "What is a key takeaway regarding the need for guidance in the text?",
+    "answer": "We need Allah's guidance every second of the day, indicating its critical importance for our spiritual journey.",
+    "context": "This principle emphasizes the constant reliance on divine guidance in a Muslim's life.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What is the significance of al-Tahmid compared to al-Tasbih according to Ibn Rajab?",
-    "answer": "Al-Tahmid, which means praising and thanking Allah, is greater than al-Tasbih, which is glorifying Allah and denying any negative traits towards Him, indicating that being grateful to Allah is more important than merely glorifying Him."
+    "type": "principle",
+    "question": "What is the key takeaway from the hadith narrated by Abu Muhammad al-Hasan regarding decision-making?",
+    "answer": "The key takeaway is to avoid actions or decisions that are uncertain and instead pursue those that are certain.",
+    "context": "This principle helps individuals make better choices by emphasizing clarity over doubt.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What does Sheikh al-Sa'di say about the obligation of dhikr Allah in his commentary on Surah al-Ahzab?",
-    "answer": "Sheikh al-Sa'di states that dhikr Allah is an obligation that must be fulfilled."
+    "type": "principle",
+    "question": "What does Ibn Rajab argue regarding the meaning of 'al-tuhur'?",
+    "answer": "Ibn Rajab argues that 'al-tuhur' refers to ritual purification by water (wudu') rather than just avoiding sins.",
+    "context": "This principle is important in understanding Islamic purification practices and the significance of wudu' in faith.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What is the significance of preserving the salah according to the hadith mentioned in the text?",
-    "answer": "Preserving the salah will lead to it interceding for the servant of Allah on the Day of Judgment and being a light, proof, and safe place for him."
+    "type": "context",
+    "question": "In what context is Al-Ihsan defined in the hadith?",
+    "answer": "Al-Ihsan is defined as the highest level of Iman, where one worships Allah with the awareness that He sees us.",
+    "context": "This emphasizes the importance of intention and consciousness in worship within Islamic teachings.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What is the significance of overcoming greed for wealth in relation to iman, according to the text?",
-    "answer": "Overcoming greed for the sake of Allah indicates that a person has strong iman."
+    "type": "principle",
+    "question": "What key principle regarding the heart and faith is emphasized in relation to Abu Bakr as-Sidiq?",
+    "answer": "Every Muslim should care for and purify their heart, activating iman and practicing the principles of Tawhid.",
+    "context": "This principle highlights the importance of a pure heart in strengthening one's faith and relationship with Allah.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What is the main purpose of the Qur'an according to contemporary scholars, as mentioned in the text?",
-    "answer": "The Qur'an is revealed for the living and not for those who have passed away."
+    "type": "definition",
+    "question": "What does 'Fa'izun' mean in the context of success in Islam?",
+    "answer": "Fa'izun refers to the most successful individuals, particularly in the context of achieving Allah's pleasure.",
+    "context": "This term is significant as it highlights the ultimate goal of a Muslim's life.",
+    "arabic": "فائزون",
+    "transliteration": "Fa'izun"
   },
   {
-    "question": "What does Allah affirm about His nature regarding justice, as mentioned in several verses of the Qur'an?",
-    "answer": "Allah affirms His absolute justice and negates any form of injustice towards anyone, emphasizing that He does not wrong anyone, even by the weight of an atom."
+    "type": "principle",
+    "question": "What is the key takeaway from the Hadith regarding adherence to tradition?",
+    "answer": "One should observe the Sunnah and avoid newly introduced matters, as every innovation is considered an error.",
+    "context": "This principle emphasizes the importance of following established traditions in Islam.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "Why is it important for Muslims to constantly show their need to Allah?",
-    "answer": "Muslims should show their need to Allah at all times because they are inherently poor and needy, and Allah is the only One who does not need anything from anyone. This acknowledgment expresses gratitude and dependence on Allah for all aspects of life, which strengthens one's faith."
+    "type": "principle",
+    "question": "What is considered harmful behavior when distributing inheritance according to Islamic teachings?",
+    "answer": "Giving more to one inheritor than what is due or exceeding the prescribed limits is harmful and a major sin.",
+    "context": "This principle emphasizes fairness and justice in the distribution of inheritance among heirs in Islam.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What is the source of misguidance according to the text, and how does it relate to Allah's will?",
-    "answer": "Misguidance is a result of a person's own will and choice, not from Allah's will, as Allah does not want individuals to be misguided. Misguidance stems from personal attitudes and behaviors, like arrogance, and Allah's misguidance may occur later as a punishment for those who choose to be misguided."
+    "type": "principle",
+    "question": "What is the distinction between innovation that is kufr and one that is not?",
+    "answer": "Innovation that is kufr leads to disbelief, while innovation that is not kufr is a sin but may be forgiven.",
+    "context": "This principle is crucial for understanding the implications of innovation (bid'ah) in Islamic teachings.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What should be the approach when trying to help someone, according to the text?",
-    "answer": "The approach should be with tolerance and patience, ensuring that the act is done with good intentions to be perceived positively."
+    "type": "principle",
+    "question": "What is the key principle about serving Allah according to the text?",
+    "answer": "You should serve Allah as though you could see Him, realizing that He sees you even if you cannot see Him.",
+    "context": "This principle emphasizes the importance of sincere worship and awareness of Allah's presence.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What are the small bones in the hands and feet referred to in the context of their significance to human movement and civilization?",
-    "answer": "The small bones are referred to as 'salameh', and they enable human beings to move, grasp, construct, and build things, which are keys to the progress and civilization of man."
+    "type": "principle",
+    "question": "What is the principle regarding repenting and good deeds in Islam?",
+    "answer": "Repenting immediately for bad deeds and following them with good deeds is a means to remove the bad deeds.",
+    "context": "This principle emphasizes the importance of repentance and good actions in seeking forgiveness for sins.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "According to the Prophet Muhammad, what is the definition of righteousness and sin?",
-    "answer": "Righteousness is good character, while sin is what wavers in your heart and what you do not want people to know about."
+    "type": "principle",
+    "question": "What warning does the Prophet Muhammad give regarding unjustly taking someone else's property?",
+    "answer": "He warns that even taking a small amount unjustly will lead to severe consequences on the Day of Judgment.",
+    "context": "This principle emphasizes the seriousness of property rights in Islamic teachings.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What is the proposed strategy to address the challenges faced by Muslims in the context of globalization, according to the text?",
-    "answer": "The strategy is to 'activate' and 'upgrade' the internal controlling system to help Muslims live their lives in tranquility and without confusion."
+    "type": "principle",
+    "question": "What is an important principle regarding the remembrance of Allah?",
+    "answer": "The remembrance of Allah should involve a match between what the tongue says and what the heart believes.",
+    "context": "This principle emphasizes the sincerity of one's faith and devotion.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What does the Messenger of Allah advise regarding Taqwa, listening to rulers, and innovations in his farewell sermon?",
-    "answer": "He advises to have Taqwa of Allah, to listen and obey even if a slave is made a ruler, to observe his Sunnah and that of the rightly-guided successors, and to beware of innovations, stating that every innovation is an error."
+    "type": "principle",
+    "question": "What is a key takeaway regarding the importance of time in one's life according to the text?",
+    "answer": "One should be mindful of the fleeting nature of life and prepare for the future by performing good deeds.",
+    "context": "This principle emphasizes the urgency of living righteously and making the most of one's time.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What did Imam Malik advise against regarding actions that were not practiced by the Prophet Muhammad and his companions?",
-    "answer": "Imam Malik advised against performing actions that had not been practiced by the Prophet Muhammad or his companions, such as hitting a stick against the side of the minaret before giving the adhan."
+    "type": "principle",
+    "question": "What is the definition of righteousness according to the hadith?",
+    "answer": "Righteousness is described as good character and is associated with feelings of tranquility in the soul.",
+    "context": "This principle emphasizes the importance of inner peace and moral integrity in determining righteousness.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What did the Prophet Muhammad, sallallahu alayhi wasallam, emphasize about the consequences of speech in relation to accountability?",
-    "answer": "He indicated that the jests of people's tongues can lead to them being toppled into the Hell-fire, highlighting the seriousness of what one says."
+    "type": "principle",
+    "question": "What is the key takeaway about helping others according to the text?",
+    "answer": "Helping others should be done with tolerance and patience to ensure acceptance and positive perception.",
+    "context": "This principle highlights the importance of a considerate approach when assisting others.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What is the advised approach to feelings towards someone who you might like or dislike in the future?",
-    "answer": "You should like someone moderately because they might become someone you dislike, and when you dislike someone, you should dislike them moderately because they might become someone you like."
+    "type": "tarkeeb",
+    "question": "What is the Arabic grammatical structure for indicating a claim?",
+    "answer": "The structure involves using 'يَزْعُمُ' (yaz'umu) to denote the act of claiming or asserting something.",
+    "context": "This structure is used in legal and formal contexts to present claims.",
+    "arabic": "يَزْعُمُ",
+    "transliteration": "yaz'umu"
   },
   {
-    "question": "What did the Prophet Muhammad (sallallahu 'alayhi wasallam) compare the value of worldly life to, and what lesson can be derived from this comparison?",
-    "answer": "The Prophet compared worldly life to a dead animal or goat, illustrating that it is insignificant in the sight of Allah. The lesson is that Muslims should place more trust in Allah and focus on the rewards of the Hereafter rather than being overly attached to worldly possessions."
+    "type": "principle",
+    "question": "What is the recommended attitude towards envy according to Ibn Rajab?",
+    "answer": "The recommended attitude is to stop envy, do good for the envied person, and pray for their well-being.",
+    "context": "This principle encourages positive behavior and compassion towards others instead of harboring negative feelings.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What are the three actions of the heart that define zuhd according to Ibn Rajab?",
-    "answer": "1) Recognizing that all provisions come from Allah, 2) Not being bothered by worldly losses while seeking rewards, 3) Not caring for praise or blame from others."
+    "type": "context",
+    "question": "Why is 'dhikr Allah' important in Islam?",
+    "answer": "'Dhikr Allah' is the act of remembering Allah, which is commanded to be done frequently in the Qur'an.",
+    "context": "It emphasizes the significance of constant remembrance and awareness of Allah in a Muslim's life.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What is the concept of zuhdd and how does it relate to fulfilling community obligations?",
-    "answer": "Zuhd is the practice of performing actions with good intentions for the sake of Allah, which includes the betterment of the community as a form of worship, without neglecting one's obligations towards Allah."
+    "type": "arabic_term",
+    "question": "What does the term 'burhan' mean in Arabic and how is it used in the context of charity?",
+    "answer": "'Burhan' means 'proof' or 'evidence', emphasizing that charity is a clear proof of a believer's iman.",
+    "context": "In Islamic teachings, 'burhan' is used to illustrate the significance of charity as a reflection of faith.",
+    "arabic": "برهان",
+    "transliteration": "burhān"
   },
   {
-    "question": "What are the criteria mentioned for testing our love for Allah?",
-    "answer": "The criteria include loving the Prophet more than ourselves and our family, loving his sunnah, remembering Allah through all forms of dzikr, and practicing preferable good deeds."
+    "type": "principle",
+    "question": "What metaphor does the Prophet use to describe the different responses of his ummah to the Message?",
+    "answer": "The Prophet uses the metaphor of rain falling on different types of land, producing varying results.",
+    "context": "This metaphor illustrates the varying levels of benefit individuals gain from the teachings of Islam.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What is the key principle conveyed in the hadith related by Abu Sa'id regarding harm in Islam?",
-    "answer": "The key principle is that \"There should be neither harming nor reciprocating harm.\""
+    "type": "principle",
+    "question": "What is the importance of fully expressing the phrase 'sallallahu 'alayhi wasallam' when mentioning the Prophet?",
+    "answer": "It is encouraged to say it in full as an expression of respect and to avoid being considered greedy.",
+    "context": "This principle emphasizes the significance of honoring the Prophet in Islamic tradition.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What is considered a major sin in relation to inheritance according to Ibn Abbas, and what is prohibited in Islam regarding the treatment of inheritors?",
-    "answer": "Favoring any one of the inheritors beyond their rightful share is considered a major sin and causes harm to immediate inheritors, as stated in the Qur'an."
+    "type": "principle",
+    "question": "What is a key takeaway regarding the use of time and effort according to the text?",
+    "answer": "We should focus our time and effort on matters that benefit us and the ummah, avoiding distractions.",
+    "context": "This principle emphasizes prioritizing meaningful activities over trivial concerns.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "According to Imam Malik, what is the consequence of selling an item at a price that exceeds a third of its worth?",
-    "answer": "It is considered harm and is prohibited."
+    "type": "principle",
+    "question": "What key takeaway can be derived from the Prophet Muhammad's teaching about the impact of speech?",
+    "answer": "People will be held accountable for their words, as harmful speech can lead to severe consequences.",
+    "context": "This principle highlights the importance of being mindful of one's speech in Islamic teachings.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What is the primary responsibility of the plaintiff in a legal dispute according to the text?",
-    "answer": "The primary responsibility of the plaintiff is to bear the burden of proof, demonstrating their claims with evidence until a degree of certainty is achieved."
+    "type": "definition",
+    "question": "What does 'awliya' mean in the context of the Muslim community?",
+    "answer": "'Awliya' refers to the loyal and supportive relationship between believing men and women in Islam.",
+    "context": "This term highlights the importance of mutual support and unity among Muslims as emphasized in the Qur'an.",
+    "arabic": "أولياء",
+    "transliteration": "awliya"
   },
   {
-    "question": "What does the Prophet Muhammad warn about in relation to taking someone else's property unjustly?",
-    "answer": "He warns that even taking as little as a spin of a palm of someone else's property will result in severe accountability on the Day of Judgment."
+    "type": "principle",
+    "question": "What principle should guide Muslims in fulfilling obligations according to the text?",
+    "answer": "Muslims should always choose the easier way to fulfill obligations, as Shariah is based on ease.",
+    "context": "This principle encourages practitioners to avoid unnecessary hardship in religious practices.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What does Husnul-Istimaa' (Good listening) entail according to the text?",
-    "answer": "Husnul-Istimaa' involves the Caller being attentive to the needs, feelings, and complaints of the people he calls."
+    "type": "principle",
+    "question": "What are the two types of protection provided by Allah to His servants?",
+    "answer": "Allah provides protection in worldly matters and protection of deen (religion) and iman (faith).",
+    "context": "This principle highlights the comprehensive nature of Allah's protection over both physical and spiritual aspects of life."
   },
   {
-    "question": "What are the three key principles of Inkaarul-Munkar (Forbidding what is evil)?",
-    "answer": "1. Prioritize the evil, starting with higher priority; 2. Use a gradual approach (Tadarruj) as demonstrated in the prohibition of wine; 3. Avoid looking for people's faults, with exceptions for clear indications of wrongdoing."
+    "type": "principle",
+    "question": "What is the principle regarding revealing mistakes of those who are generally known for good behavior?",
+    "answer": "Mistakes committed by individuals known for good behavior should be concealed and not discussed.",
+    "context": "This principle emphasizes the importance of protecting the reputation of those who are typically righteous.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "Why is envy (hasad) forbidden in Islam, and what consequences can it have?",
-    "answer": "Envy is forbidden in Islam because it can cause harm to others, even by just wishing it, and is considered an evil act. It is associated with Shaitan and is mentioned as a negative trait in certain verses of the Quran."
+    "type": "principle",
+    "question": "What is the recommended approach when educating people about the Sunnah?",
+    "answer": "Start from the highest level of Sunnan and gradually introduce lower levels to avoid confusion.",
+    "context": "This principle emphasizes the importance of building a solid foundation before delving into more detailed teachings.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What did the Prophet, sallallahu 'alayhi wasallam, say about the relationship between belief, love, and entering paradise?",
-    "answer": "He stated that you will not enter paradise until you believe, and you will not believe until you love one another."
+    "type": "principle",
+    "question": "What is the key takeaway from the hadith about introducing new practices into Islam?",
+    "answer": "Any practice that is introduced into Islam without a basis in its teachings is to be rejected.",
+    "context": "This principle emphasizes the importance of adhering to authentic Islamic teachings and avoiding innovations.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What is the difference in meaning between \"to relieve\" and \"to remove\" in the context of helping a Muslim in distress, according to the hadith?",
-    "answer": "\"To relieve\" means to minimize the difficulty or distress, whereas \"to remove\" means to totally eradicate the difficulty or hardship."
+    "type": "principle",
+    "question": "What is the principle regarding relieving or removing a Muslim's grief according to the hadith?",
+    "answer": "The principle emphasizes that removing a difficulty is more rewarded than merely relieving it.",
+    "context": "This principle highlights the importance of actively addressing and alleviating the hardships faced by Muslims.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "According to Ibn Rajab, how should mistakes be treated for people who are not known for transgression?",
-    "answer": "Mistakes should be concealed and not talked about."
+    "type": "tarkeeb",
+    "question": "What does the Arabic term 'shatr' mean in the context of Islamic teachings?",
+    "answer": "'Shatr' means 'half' as it relates to the concept of purification being half of iman (faith).",
+    "context": "Understanding this term is essential when discussing the significance of purification in relation to faith.",
+    "arabic": "شطر",
+    "transliteration": "shatr"
   },
   {
-    "question": "What does Allah record when a person intends to do an evil deed but does not carry it out, according to the hadith?",
-    "answer": "Allah records it as a complete good deed."
+    "type": "principle",
+    "question": "What key principle can be derived from Imam al-Bukhari's approach to compiling hadith in his book?",
+    "answer": "The principle of ensuring transactions are free from doubt and are based on halal practices.",
+    "context": "This principle is central to Islamic jurisprudence and ethical trading.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What do some scholars believe about punishment for having a bad intention if the sin does not involve impermissible speech?",
-    "answer": "Some scholars believe he will be punished just because of his bad intention."
+    "type": "principle",
+    "question": "What is a key takeaway regarding unity in Islam from the Qur'an?",
+    "answer": "Muslims are urged to hold fast to the Rope of Allah and not to be divided among themselves.",
+    "context": "This principle is crucial for maintaining the integrity and strength of the Muslim community."
   },
   {
-    "question": "What is the misconception regarding the concept of wilayah in Islam as discussed in the text?",
-    "answer": "The misconception is that the attributes of a wali, or close servant of Allah, have been misunderstood and often do not align with the teachings of the Qur'an and hadith, leading to claims that may not reflect true closeness to Allah."
+    "type": "principle",
+    "question": "How do Al-Iman and Al-Islam relate to each other according to the text?",
+    "answer": "Al-Iman and Al-Islam can be interchanged; weak Iman affects Al-Islam (good deeds/actions).",
+    "context": "Understanding this relationship is crucial for comprehending Islamic teachings on faith and practice.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What does the hadith state about individuals who act out of forgetfulness or by mistake in relation to sinfulness and responsibility?",
-    "answer": "The hadith states that those who act out of forgetfulness or by mistake are excused from sinfulness, but it does not mean they are completely exempt from all responsibilities or rulings."
+    "type": "arabic_term",
+    "question": "What does the term 'amanah' refer to in Islamic context?",
+    "answer": "Amanah refers to religious obligations or trusts that individuals are expected to fulfill.",
+    "context": "Understanding 'amanah' is crucial for comprehending the responsibilities of Muslims in their faith.",
+    "arabic": "أمانة",
+    "transliteration": "amanah"
   },
   {
-    "question": "What is the key concern regarding material possessions mentioned in the text?",
-    "answer": "The key concern is not to take more than what one needs and to avoid being weighed down by materialistic things or wealth."
+    "type": "principle",
+    "question": "What key principle can Muslims derive from Hadith 5 regarding their actions?",
+    "answer": "Muslims can assess and evaluate their actions to ensure their rightness and acceptability.",
+    "context": "This principle helps Muslims in fulfilling their daily religious obligations correctly.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What advice does Ibn 'Umar give regarding living life and preparing for the future?",
-    "answer": "Ibn 'Umar advises to not expect to live until the next day, to take advantage of good health for future illness, and to perform good deeds while one is still alive."
+    "type": "principle",
+    "question": "What is the principle regarding misguidance according to the text?",
+    "answer": "Misguidance results from an individual's own choices and attitudes, not from Allah's will.",
+    "context": "This principle emphasizes personal responsibility in one's spiritual journey.",
+    "arabic": null,
+    "transliteration": null
   },
   {
-    "question": "What is the concept that helps Muslims minimize the chances of committing sins by devoting their hearts to Allah?",
-    "answer": "Tawhid"
+    "type": "principle",
+    "question": "What is one way Muslims can show thankfulness to Allah according to the text?",
+    "answer": "By doing charitable acts such as good deeds, helping others, and benefiting the community.",
+    "context": "This principle emphasizes the importance of gratitude expressed through actions.",
+    "arabic": null,
+    "transliteration": null
   }
 ]

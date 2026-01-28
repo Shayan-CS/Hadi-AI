@@ -15,33 +15,54 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 
 def generate_flashcard_prompt(chunk_text):
-    """Generate a prompt that asks the LLM to create flashcards from a text chunk"""
+    """Generate a prompt that asks the LLM to create structured, high-quality flashcards from a text chunk"""
     prompt = f"""
-Based on the following text, generate 0-1 high-quality flashcard ONLY if the content contains truly important information.
-The flashcard should test the most key concept, definition, or important fact.
+Based on the following text, generate AT MOST ONE flashcard PER TYPE, and ONLY if the information is genuinely important.
 
+Allowed flashcard types:
+- definition
+- principle (lesson, rule, or key takeaway)
+- context (background, usage, or circumstance)
+- tarkeeb (Arabic grammar or structure)
+- arabic_term (key Arabic word or short phrase with important meaning)
 
-Guidelines:
-- IGNORE any Arabic text in the content - do not create flashcards from Arabic text
-- Only create flashcards from English text
-- Questions should be clear and specific
-- Questions should include all the context required to answer
-- Questions should not rely on information from other embeddings to answer
+General rules:
+- Do NOT force all types — only generate what truly applies
+- Focus on the most important concepts, not trivial details
+- Questions must be clear, specific, and self-contained
 - Answers should be concise but complete
-- Focus on the most important information
-- Don't create flashcards for trivial details
-- If the text doesn't contain meaningful English information for flashcards, return "SKIP"
+- Do NOT rely on information from other chunks to answer
+- If the text does not contain meaningful content for flashcards, respond with ONLY: SKIP
 
+Arabic-specific rules:
+- IGNORE Arabic text EXCEPT when generating:
+  - tarkeeb flashcards
+  - arabic_term flashcards
+- Arabic Term flashcards must:
+  - Use short Arabic terms or phrases (MAX 5 words)
+  - Represent a key concept, not a full sentence or quotation
+  - Include enough English context in the question
+  - NOT require memorization of long Arabic passages
+
+Output format (EXACT — use JSON per flashcard, one per line):
+
+{{
+  "type": "<definition | principle | context | tarkeeb | arabic_term>",
+  "question": "<question text>",
+  "answer": "<answer text>",
+  "context": "<brief context or explanation of where/why this applies>",
+  "arabic": "<arabic term if applicable, otherwise null>",
+  "transliteration": "<transliteration if applicable, otherwise null>"
+}}
+
+Rules for fields:
+- context: short explanation of relevance (1 sentence)
+- arabic + transliteration: ONLY for arabic_term or tarkeeb, otherwise null
+- Do NOT include extra text outside the JSON objects
+- If no suitable flashcards can be created, respond with ONLY: SKIP
 
 TEXT:
 {chunk_text}
-
-
-Format your response EXACTLY like this:
-Q: [question] | A: [answer]
-
-
-If the text isn't suitable for flashcards, respond with only: SKIP
 """
     return prompt
 
@@ -75,28 +96,73 @@ def parse_flashcards(llm_output):
     flashcards = []
 
 
-    if "SKIP" in llm_output.strip():
+    if llm_output.strip() == "SKIP":
         return flashcards
 
 
-    lines = llm_output.strip().split('\n')
+    cleaned = llm_output.strip()
 
+    # Remove fenced code blocks if present
+    if cleaned.startswith("```") and cleaned.endswith("```"):
+        cleaned = "\n".join(cleaned.splitlines()[1:-1]).strip()
 
+    # If the model returned a JSON array, parse it directly
+    if cleaned.startswith("[") and cleaned.endswith("]"):
+        try:
+            parsed = json.loads(cleaned)
+            if isinstance(parsed, list):
+                for item in parsed:
+                    if isinstance(item, dict) and item.get("question") and item.get("answer"):
+                        flashcards.append(item)
+                return flashcards
+        except json.JSONDecodeError:
+            pass
+
+    # Parse multiple JSON objects from a single string (pretty-printed, separated by blank lines)
+    decoder = json.JSONDecoder()
+    idx = 0
+    length = len(cleaned)
+    while idx < length:
+        # Skip whitespace between objects
+        while idx < length and cleaned[idx].isspace():
+            idx += 1
+        if idx >= length:
+            break
+        if cleaned[idx] == "{":
+            try:
+                item, next_idx = decoder.raw_decode(cleaned, idx)
+                idx = next_idx
+                if isinstance(item, dict) and item.get("question") and item.get("answer"):
+                    flashcards.append(item)
+                continue
+            except json.JSONDecodeError:
+                # Fall back to line parsing below
+                break
+        else:
+            break
+
+    # Backwards-compatible line parsing (Q/A format or JSON-per-line)
+    lines = cleaned.split('\n')
     for line in lines:
         line = line.strip()
+        if not line:
+            continue
+        if line.startswith("{") and line.endswith("}"):
+            try:
+                item = json.loads(line)
+                if isinstance(item, dict) and item.get("question") and item.get("answer"):
+                    flashcards.append(item)
+                continue
+            except json.JSONDecodeError as e:
+                print(f"Error parsing JSON line: {line} - {e}")
+                continue
         if line.startswith('Q:') and '|' in line and 'A:' in line:
             try:
-                # Split on | to separate question and answer
-                parts = line.split('|')
+                parts = line.split('|', 1)
                 question = parts[0].replace('Q:', '').strip()
                 answer = parts[1].replace('A:', '').strip()
-
-
                 if question and answer:
-                    flashcards.append({
-                        'question': question,
-                        'answer': answer
-                    })
+                    flashcards.append({'question': question, 'answer': answer})
             except Exception as e:
                 print(f"Error parsing line: {line} - {e}")
                 continue
@@ -234,7 +300,8 @@ def save_flashcards(flashcards, output_format='json'):
     elif output_format == 'csv':
         import csv
         with open('flashcards.csv', 'w', newline='', encoding='utf-8') as f:
-            writer = csv.DictWriter(f, fieldnames=['question', 'answer'])
+            fieldnames = ['type', 'question', 'answer', 'context', 'arabic', 'transliteration']
+            writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction='ignore')
             writer.writeheader()
             writer.writerows(flashcards)
         print(f"Saved {len(flashcards)} flashcards to flashcards.csv")
@@ -245,8 +312,15 @@ def save_flashcards(flashcards, output_format='json'):
             f.write("# Flashcards\n\n")
             for i, card in enumerate(flashcards, 1):
                 f.write(f"## Card {i}\n\n")
-                f.write(f"**Q:** {card['question']}\n\n")
-                f.write(f"**A:** {card['answer']}\n\n")
+                f.write(f"**Type:** {card.get('type', '')}\n\n")
+                f.write(f"**Q:** {card.get('question', '')}\n\n")
+                f.write(f"**A:** {card.get('answer', '')}\n\n")
+                if card.get('context'):
+                    f.write(f"**Context:** {card.get('context')}\n\n")
+                if card.get('arabic'):
+                    f.write(f"**Arabic:** {card.get('arabic')}\n\n")
+                if card.get('transliteration'):
+                    f.write(f"**Transliteration:** {card.get('transliteration')}\n\n")
                 f.write("---\n\n")
         print(f"Saved {len(flashcards)} flashcards to flashcards.md")
 

@@ -2,713 +2,1245 @@
 
 ## Card 1
 
-**Q:** What does the hadith narrated by Abu Hafs 'Umar bin al-Khattab indicate about the importance of intentions in actions?
+**Type:** definition
 
-**A:** The hadith states that actions are judged by motives (niyyah), meaning each person will receive the consequence of their intentions; if one's migration (hijrah) was for Allah and His Messenger, it is accepted as such, but if it was for worldly gain or personal reasons, it is regarded according to that intention.
+**Q:** What does 'zuhd' mean in the context of Islamic teachings?
+
+**A:** 'Zuhd' refers to detachment from worldly possessions and reliance on Allah, encompassing three actions of the heart: trusting in Allah's provisions, being unbothered by worldly losses, and remaining indifferent to praise or blame.
+
+**Context:** Understanding 'zuhd' is essential for Muslims aiming to cultivate spiritual detachment and reliance on Allah.
 
 ---
 
 ## Card 2
 
-**Q:** What principle does the Prophet, sallallahu 'alayhi wasallam, emphasize in the hadith regarding actions?
+**Type:** principle
 
-**A:** "Actions are judged by intentions."
+**Q:** What is a key takeaway about wealth and being zahid?
+
+**A:** A person can still be considered a zahid even if they possess wealth, as long as they do not feel joy from its increase or sadness from its decrease, and use their wealth in a thankful and righteous manner.
+
+**Context:** This principle encourages Muslims to maintain a healthy perspective on wealth and possessions.
 
 ---
 
 ## Card 3
 
-**Q:** Who was the questioner that came to teach about religion, and what important concept did he discuss regarding serving Allah?
+**Type:** principle
 
-**A:** The questioner was Jibril, and he emphasized that one should serve Allah as though they could see Him, even though they cannot see Him.
+**Q:** What is the responsibility of educators and da'ies in the context of technology and Muslim youth?
+
+**A:** Educators and da'ies are responsible for upgrading the internal controlling system of Muslims, particularly the youth, to navigate the challenges posed by technology and intellectual manipulation.
+
+**Context:** This principle emphasizes the need for proactive measures to protect Muslim values in the digital age.
 
 ---
 
 ## Card 4
 
-**Q:** What did 'Umar bin al-Khattab demonstrate about dealing with qadar in the context of illness and hardship during his leadership?
+**Type:** context
 
-**A:** 'Umar bin al-Khattab demonstrated that while qadar (destiny) exists, one should actively seek solutions to challenges, such as avoiding a contagious disease, which he viewed as moving from one qadar to another qadar.
+**Q:** In what circumstances should a Muslim not be affected by praise or blame?
+
+**A:** A Muslim should remain unaffected by praise or blame from others, focusing instead on their relationship with Allah and striving for self-improvement regardless of external opinions.
+
+**Context:** This context emphasizes the importance of inner spiritual focus over external validation.
 
 ---
 
 ## Card 5
 
-**Q:** What does Islam teach about personal responsibility in relation to committing sins and fulfilling religious obligations?
+**Type:** principle
 
-**A:** Islam teaches that individuals are responsible for their actions and cannot blame qadar (divine decree) for committing sins or failing to fulfill religious obligations; it emphasizes the importance of repentance and returning to the right path.
+**Q:** What is the key takeaway from the Hadith regarding beliefs and obligations in Islam?
+
+**A:** The Hadith emphasizes that one must testify to the oneness of Allah and the prophethood of Muhammad, perform prayers, and pay zakat to gain protection for their lives and property.
+
+**Context:** This principle outlines the fundamental beliefs and practices required for safety and community membership in Islam.
 
 ---
 
 ## Card 6
 
-**Q:** What are the three components that the Prophet Muhammad defined as part of the deen, and how are they interrelated?
+**Type:** context
 
-**A:** The three components are Al-Islam (outward actions), Al-Iman (inner belief), and Al-Ihsan (the highest level of worship). Al-Islam and Al-Iman can be interchanged, and when either term is used on its own, it encompasses all three components.
+**Q:** Why is the concept of 'wilayah' often misunderstood in contemporary Islam?
+
+**A:** The misunderstanding arises from individuals claiming 'wilayah' without matching their actions to Islamic teachings, leading to confusion about true spiritual closeness.
+
+**Context:** This context highlights the ongoing relevance of correcting misconceptions in the Muslim community.
 
 ---
 
 ## Card 7
 
-**Q:** What metaphor is used in Surah An-Nur (24): ayat 35 to describe the guidance in the heart of the Mua'min?
+**Type:** context
 
-**A:** The metaphor of light is used to represent the light of guidance in the heart of the Mua'min.
+**Q:** Why is the concept of 'wilayah' often misunderstood in contemporary Islam?
+
+**A:** The misunderstanding arises from individuals claiming 'wilayah' without matching their actions to Islamic teachings, leading to confusion about true spiritual closeness.
+
+**Context:** This context highlights the ongoing relevance of correcting misconceptions in the Muslim community.
 
 ---
 
 ## Card 8
 
-**Q:** What is the obligation regarding Zakat according to the scholars mentioned in the text?
+**Type:** principle
 
-**A:** Knowing the details of Zakat becomes an obligation when a person owns the type of property that requires them to give Zakat, such as for farmers, traders, or property owners.
+**Q:** What should Muslims prioritize if they can perform Hajj multiple times?
+
+**A:** Muslims should prioritize using their financial means to help others fulfill their obligations or to better their community rather than performing Hajj multiple times.
+
+**Context:** This principle emphasizes community support and the collective good over individual acts.
 
 ---
 
 ## Card 9
 
-**Q:** What are the two views regarding the timing of when the ruh is breathed into the fetus according to scholars, and how does this affect the Fatwa on abortion?
+**Type:** definition
 
-**A:** The first view states that the ruh is breathed into the fetus after 120 days, allowing abortion only before that time for serious reasons. The second view argues that the ruh is breathed into the fetus after 40 days, allowing abortion only before that time.
+**Q:** What is 'relative bid'ah' in Islamic worship?
+
+**A:** 'Relative bid'ah' refers to a form of worship that has general evidence from the Qur'an or sunnah but lacks explicit evidence, such as performing du'a in congregation.
+
+**Context:** This concept helps distinguish acceptable innovations in worship from those that are not supported by Islamic texts.
 
 ---
 
 ## Card 10
 
-**Q:** What are the two categories of Al-Qadar as described in the text?
+**Type:** context
 
-**A:** 1. Al-Qadar al-Kulli (the general qadar recorded in Al-Lauhulmahfudz) and 2. Al-Qadar al-Sanawi (the annual qadar that occurs once a year, such as Lailatul qadar).
+**Q:** What is the significance of Imam Ahmad Zarouq's category of 'un-agreed upon heresy'?
+
+**A:** It highlights that certain practices may be considered acceptable by some scholars while deemed as bid'ah by others, reflecting the diversity of scholarly opinions.
+
+**Context:** This context shows the complexity of defining acceptable innovations in Islamic practice.
 
 ---
 
 ## Card 11
 
-**Q:** What effect did the scholars' presentation of the Islamic perspective on the stages of the fetus have on some attendees of the conference?
+**Type:** principle
 
-**A:** Some attendees embraced Islam, believing it to be a Divine revelation.
+**Q:** What is the key takeaway regarding food and its impact on behavior according to the text?
+
+**A:** The food we eat affects our attitude and behavior, and consuming pure (at-Tayyib) food in moderation is essential for improving our faith and devotion to Allah.
+
+**Context:** This principle emphasizes the Islamic perspective on the importance of food choices for spiritual and moral development.
 
 ---
 
 ## Card 12
 
-**Q:** What internal and external factors influence a person's decision to perform bad deeds according to the text?
+**Type:** context
 
-**A:** Internal factors include faith and the blaming self, while external factors involve existing prohibitions (muharamat) that activate desires (hawa) and lead to bad deeds.
+**Q:** Why do many Muslims face dangers during Hajj?
+
+**A:** Many Muslims face dangers during Hajj due to negligence and violations of adab and sunan, such as improper stone throwing and ignoring crowd control measures.
+
+**Context:** Understanding these dangers highlights the importance of following guidelines to ensure safety during the pilgrimage.
 
 ---
 
 ## Card 13
 
-**Q:** What are the two types of guidance (hidayah) mentioned in the text?
+**Type:** principle
 
-**A:** (i) To the path is becoming a Muslim and (ii) Within the path is increasing our faith.
+**Q:** What is the significance of being 'mukallaf' in Islamic context?
+
+**A:** 'Mukallaf' refers to a person who is responsible and accountable for understanding and accepting the message of Allah, contingent upon their mental soundness.
+
+**Context:** This principle underscores the importance of mental capacity in the moral and religious obligations of individuals.
 
 ---
 
 ## Card 14
 
-**Q:** What does the Messenger of Allah, as narrated by Umm 'Abdullah 'Aishah, say about introducing new things into Islam?
+**Type:** definition
 
-**A:** He stated that "whosoever introduces into this affair of ours something that does not belong to it, it is to be rejected."
+**Q:** What is the definition of 'anibadah' in Islamic context?
+
+**A:** Anibadah refers to actions that are considered acts of worship in Islam, which may involve receiving rewards or facing punishment based on their performance.
+
+**Context:** This definition is crucial for understanding the categorization of actions in Islamic teachings.
 
 ---
 
 ## Card 15
 
-**Q:** What should Muslims understand about the obligation of offering a sacrifice if they cannot afford it, and how does this relate to the actions of the Prophet Muhammad?
+**Type:** definition
 
-**A:** Muslims do not have to perform the sacrifice if they cannot afford it as it is not obligatory (awajib). The actions of the Prophet Muhammad, such as certain practices done from time to time, should be observed to avoid misconceptions about their obligatory nature.
+**Q:** What is Hajj?
+
+**A:** Hajj is the pilgrimage to the House (Kaabah) that is obligatory for Muslims to perform at least once in their lifetime if they meet certain conditions.
+
+**Context:** Hajj is one of the Five Pillars of Islam and represents a significant religious duty.
 
 ---
 
 ## Card 16
 
-**Q:** How can we differentiate between the actions of the Prophet Muhammad that were done for the purpose of ibadah and those that were not?
+**Type:** principle
 
-**A:** Actions commanded by the Prophet Muhammad or prohibitions he set are considered ibadah; actions done out of custom or for practical reasons are not.
+**Q:** What is a key takeaway about the relationship between humans and Allah in Islam?
+
+**A:** Humans are always in need of Allah, who is self-sufficient, and they should express their dependence on Him through constant remembrance and gratitude.
+
+**Context:** This principle emphasizes the importance of recognizing our reliance on Allah for all aspects of life.
 
 ---
 
 ## Card 17
 
-**Q:** What does Islam being described as a complete religion imply about the introduction of new practices or deletions from it?
+**Type:** principle
 
-**A:** It implies that there should be no additions or deletions to the religion, as it is perfect and any such actions would be an affront to Allah and the Prophet Muhammad (sallallahu 'alayhi wasallam).
+**Q:** What key takeaway does the Hadith convey about good deeds and Allah's bounties?
+
+**A:** Even after 70 years of worship and good deeds, a person cannot repay Allah for one of His bounties, highlighting the immeasurable nature of His mercy.
+
+**Context:** This principle emphasizes the importance of recognizing and appreciating Allah's blessings in our lives.
 
 ---
 
 ## Card 18
 
-**Q:** What is the main principle regarding the performance of ibadah according to the text?
+**Type:** definition
 
-**A:** The main principle is that we should not attach hardship to our ibadah in hopes of increased reward; instead, we should choose the easier way to perform it, as Shariah is based on ease.
+**Q:** What are the two types of guidance (hidayah) mentioned in the text?
+
+**A:** The two types of guidance are (i) guidance to the path, which is becoming a Muslim, and (ii) guidance within the path, which is increasing our faith.
+
+**Context:** This definition is important for understanding the different aspects of spiritual guidance in Islam.
 
 ---
 
 ## Card 19
 
-**Q:** What is the purpose of the hadiths selected by al-Imam al-Nawawi according to the text?
+**Type:** principle
 
-**A:** They serve as principles and criteria that help Muslims practice easily and fulfill their daily religious obligations.
+**Q:** What is the primary principle regarding advising leaders in Islam?
+
+**A:** The primary principle is that leaders should accept sincere advice, and followers must help, obey, and remind them with respect and good intentions.
+
+**Context:** This principle emphasizes the importance of constructive advice and maintaining stability within the Muslim community.
 
 ---
 
 ## Card 20
 
-**Q:** What does the placement of the first hadith in Kitab al-Buyu' by Imam al-Bukhari imply about the nature of trading?
+**Type:** principle
 
-**A:** It implies that doubtful matters are related to the things that we buy and sell, indicating the importance of ensuring that trade is conducted with halal (permissible) items.
+**Q:** What is the recommended approach to complaining according to the text?
+
+**A:** We should lament only with Allah and refrain from complaining to others, as it can lead to impatience and violate the principle of patience (sabr).
+
+**Context:** This principle encourages a constructive approach to expressing frustrations while maintaining a positive attitude.
 
 ---
 
 ## Card 21
 
-**Q:** What distinguishes Abu Bakr as-Sidiq according to the Prophet Muhammad, and what should Muslims do to ensure their hearts are sound?
+**Type:** context
 
-**A:** Abu Bakr as-Sidiq's iman outweighs that of the entire Muslim ummah, and Muslims should purify their hearts, activate iman, and avoid negative traits like greediness, envy, and arrogance to ensure their hearts are sound.
+**Q:** What challenge does intellectual slavery pose to Muslims?
+
+**A:** Intellectual slavery involves manipulation through technology and globalization that can lead Muslims to question their beliefs and moral values.
+
+**Context:** Understanding this challenge is crucial for educators in addressing the effects of cognitive psychology and brainwashing.
 
 ---
 
 ## Card 22
 
-**Q:** Why is it important to say or write "sallallahu 'alayhi wasallam" in full when mentioning the Prophet?
+**Type:** tarkeeb
 
-**A:** It is important because it is encouraged, and those who do not say it when the Prophet's name is mentioned are considered greedy according to the Prophet's teachings.
+**Q:** What is the grammatical structure of 'awliya'u Allah' in Arabic?
+
+**A:** 'Awliya'u Allah' means 'the friends of Allah', where 'awliya' is the plural of 'wali' (friend/guardian) and 'Allah' is the proper noun for God.
+
+**Context:** Understanding this structure is essential for grasping key Islamic terms related to spiritual relationships.
+
+**Arabic:** أولياء الله
+
+**Transliteration:** Awliya'u Allah
 
 ---
 
 ## Card 23
 
-**Q:** What is the main principle of the hadith regarding the heart and the body?
+**Type:** definition
 
-**A:** The main principle is that if the heart is sound, the whole body is sound; if the heart is corrupt, the whole body is corrupt.
+**Q:** What is Al-Lauhulmahfudz?
+
+**A:** Al-Lauhulmahfudz is the preserved tablet where Allah recorded His ultimate knowledge of all creations and their actions before they occurred.
+
+**Context:** This definition is significant in Islamic theology as it relates to divine knowledge and predestination.
 
 ---
 
 ## Card 24
 
-**Q:** What is the recommended approach to teaching about the Sunnah according to the text?
+**Type:** principle
 
-**A:** The recommended approach is to start with the highest level of Sunnan, ensuring that people understand and love the basic concepts before gradually introducing lower levels and more details.
+**Q:** What is the key takeaway regarding human responsibility in relation to Qadar (divine decree)?
+
+**A:** Humans are responsible for their choices, as they have the willingness and ability to act, despite Allah's prior knowledge of their actions.
+
+**Context:** This principle emphasizes the balance between divine knowledge and human agency in Islamic belief.
 
 ---
 
 ## Card 25
 
-**Q:** What are the key principles of giving nasiha (sincere advice) to Muslim leaders?
+**Type:** principle
 
-**A:** The key principles include having good intentions, advising mildly and respectfully, avoiding harshness and embarrassment, not divulging their wrong-doings, helping them in good, obeying in what is right, reminding them if they err, being patient, and praying for their guidance.
+**Q:** What is the key principle regarding the actions of the Prophet Muhammad (sallallahu 'alayhi wasallam) in relation to ibadah?
+
+**A:** Actions of the Prophet that were customary and not specifically commanded for ibadah should not be imitated for the purpose of ibadah today.
+
+**Context:** This principle distinguishes between cultural practices and actions intended for worship in Islamic tradition.
 
 ---
 
 ## Card 26
 
-**Q:** What are the conditions under which the messenger of Allah grants protection to people's lives and property according to the hadith narrated by Abdullah bin Omar?
+**Type:** principle
 
-**A:** Protection is granted if they testify that there is no god but Allah and that Muhammad is the messenger of Allah, and if they perform prayers and pay zakat.
+**Q:** What is the essential principle behind 'iqamatus salah' in Islam?
+
+**A:** 'Iqamatus salah' involves not just performing prayers but fulfilling specific conditions such as proper wudu, timeliness, and congregation.
+
+**Context:** This principle emphasizes the importance of adhering to the prescribed practices of prayer in Islam.
 
 ---
 
 ## Card 27
 
-**Q:** What methods are being used today by evil doers to promote evil and alter perceptions?
+**Type:** principle
 
-**A:** Evil doers are using methods such as media and technology, including pictures and spoken or written words, to change perceptions and influence attitudes and values.
+**Q:** What is a key takeaway regarding the use of weapons of mass destruction in Islam?
+
+**A:** Weapons of mass destruction are generally prohibited in Islam, but some scholars allow their use in self-defense against enemies of Islam.
+
+**Context:** This principle highlights the ethical considerations in Islamic teachings regarding warfare and violence.
 
 ---
 
 ## Card 28
 
-**Q:** What should Muslim educators and intellectuals focus on regarding technology and its use in da'wah?
+**Type:** definition
 
-**A:** They should master technology and control its use for their benefit, employing it as a form of counter manipulation to positively influence perceptions within the Muslim community, utilizing Qur'anic styles of metaphorical and analytical thinking in their dialogues.
+**Q:** What is the role of the defendant in a legal dispute?
+
+**A:** The defendant is the individual who is accused or challenged by the plaintiff and is presumed free from liability until proven otherwise.
+
+**Context:** This definition is important for comprehending legal responsibilities and rights.
 
 ---
 
 ## Card 29
 
-**Q:** What is a significant characteristic of Shariah (Islamic Law) regarding fulfilling obligations?
+**Type:** definition
 
-**A:** Shariah is characterized by its flexibility and practicality, allowing individuals to fulfill obligations based on their ability and capacity.
+**Q:** What is the role of the defendant in a legal dispute?
+
+**A:** The defendant is the individual who is accused or challenged by the plaintiff and is presumed free from liability until proven otherwise.
+
+**Context:** This definition is important for comprehending legal responsibilities and rights.
 
 ---
 
 ## Card 30
 
-**Q:** What is the significance of consuming 'at-Tayyib' food and adhering to proper manners according to Islamic teachings?
+**Type:** principle
 
-**A:** Consuming 'at-Tayyib' food and observing proper manners leads to better attitudes and behaviors, increased Iman, a purer heart devoted to Allah, and ultimately results in being 'tayyibun', pure and blessed by Allah.
+**Q:** What principle distinguishes acceptable forms of ibadah from bid'ah?
+
+**A:** An ibadah cannot be formulated without evidence from revelation (wahy), and any act not aligned with the Prophet's way will be rejected.
+
+**Context:** This principle guides Muslims to adhere strictly to established practices in worship.
 
 ---
 
 ## Card 31
 
-**Q:** What is the key advice given by the Messenger of Allah, as reported by Abu Muhammad al-Hasan bin Ali?
+**Type:** principle
 
-**A:** "Leave that about which you are in doubt for that about which you are in no doubt."
+**Q:** What lesson does Abu Muslim Al-Hawlani teach about zuhd in this world?
+
+**A:** Zuhd does not mean forbidding permissible things or wasting wealth; it is about putting more trust in Allah than in worldly possessions.
+
+**Context:** This principle encourages a focus on spiritual trust over material attachment.
 
 ---
 
 ## Card 32
 
-**Q:** In a situation where a person is uncertain about the number of rakaats they have prayed, what should they do?
+**Type:** context
 
-**A:** They should continue their prayer with the number they are certain of, for example, if they are sure they have prayed one rakaat, they should continue with the second one.
+**Q:** Why is Damascus significant in Imam Nawawi's education?
+
+**A:** Damascus was considered the center of learning and scholarship during Imam Nawawi's time, where he studied under celebrated teachers.
+
+**Context:** The city played a crucial role in shaping his scholarly pursuits and knowledge.
 
 ---
 
 ## Card 33
 
-**Q:** What should one do if they are unsure about the permissibility of an act in Islamic law, according to Shaykh Jamaluddin Zarabozo?
+**Type:** principle
 
-**A:** It is better to avoid acts which we are not sure of or where there are no clear views from scholars.
+**Q:** What is a key takeaway regarding the impact of religious perspectives on belief?
+
+**A:** Religious perspectives, particularly those grounded in sacred texts, can significantly influence individuals' beliefs and decisions.
+
+**Context:** This principle is illustrated by attendees embracing Islam after hearing scholars discuss its teachings on fetal development.
 
 ---
 
 ## Card 34
 
-**Q:** What does the hadith provide Muslims with in relation to doubtful acts and situations?
+**Type:** context
 
-**A:** The hadith equips Muslims with a practical criterion to judge doubtful acts and situations, helping them make the right decisions.
+**Q:** What significance does Imam al-Bukhari's choice of hadith at the beginning of Kitab al-Buyu' have?
+
+**A:** It highlights the importance of avoiding doubtful matters in trade, reflecting his father's influence on his understanding of halal.
+
+**Context:** This choice sets the tone for the book and underscores the ethical considerations in transactions.
 
 ---
 
 ## Card 35
 
-**Q:** What should we focus on to avoid wasting our time and effort?
+**Type:** principle
 
-**A:** We should focus on matters that are of benefit to us and to the ummah.
+**Q:** What is the key takeaway regarding intentions in actions according to the text?
+
+**A:** The intention behind an action is crucial in determining its nature, and actions can be judged based on the intentions behind them.
+
+**Context:** This principle is significant in Islamic teachings, emphasizing that actions are evaluated by the intentions behind them.
 
 ---
 
 ## Card 36
 
-**Q:** What should be the basis for considering someone a brother in Islam and deserving of our support, according to the text?
+**Type:** principle
 
-**A:** The basis should be that people with the minimum level of Islam should be considered brothers, and we should care for them and love for them what we love for ourselves.
+**Q:** What is a key takeaway regarding worldly life and obligations towards Allah?
+
+**A:** The worldly life is a test that can either draw us closer to Allah or lead us astray, depending on how we fulfill our obligations.
+
+**Context:** This principle highlights the importance of intention and action in achieving spiritual fulfillment.
 
 ---
 
 ## Card 37
 
-**Q:** What are the different manners in which the hadith can be practiced according to the text?
+**Type:** principle
 
-**A:** The hadith can be practiced through advising, giving charity, enjoining goodness, and forbidding evil.
+**Q:** What is the key takeaway regarding permissible acts in Islam?
+
+**A:** If something is clearly permissible in shariah, there is no point in refraining from it with the intention of it being an ibadah.
+
+**Context:** This principle emphasizes the importance of understanding and acting upon clear permissibility in Islamic law.
 
 ---
 
 ## Card 38
 
-**Q:** What are the three classes of individuals whose blood is lawful to shed according to the hadith narrated by Ibn Mas’ud?
+**Type:** principle
 
-**A:** A married man who is an adulterer, a person guilty of murder (life for a life), and one who deserts his religion, abandoning the community.
+**Q:** What is the principle related to calling others to Allah according to the text?
+
+**A:** The Caller must possess clear knowledge of good and evil and understand the situation of the person being commanded or forbidden.
+
+**Context:** This principle emphasizes the importance of knowledge in guiding others effectively.
 
 ---
 
 ## Card 39
 
-**Q:** What is the difference between lamenting with Allah and complaining to others, according to the text?
+**Type:** principle
 
-**A:** Lamenting with Allah is considered munajah and turns into ibadah, while complaining to others is seen as tashakki and violates the principle of sabr.
+**Q:** What is a key takeaway about the treatment of neighbors in Islam?
+
+**A:** One should ensure that their neighbor feels safe and should be patient and generous towards them, even if they cause annoyance.
+
+**Context:** This principle emphasizes the importance of good neighborly relations in Islamic teachings.
 
 ---
 
 ## Card 40
 
-**Q:** What should a person do if their neighbor causes them annoyance, according to a hadith?
+**Type:** principle
 
-**A:** They should remain patient and tolerate the neighbor.
+**Q:** What does preserving and safeguarding salah signify for a believer according to the hadith?
+
+**A:** It signifies that the salah will intercede for the believer on the Day of Judgment and serve as a light, proof, and safe place.
+
+**Context:** This principle highlights the spiritual importance of performing salah correctly and consistently in a believer's life.
 
 ---
 
 ## Card 41
 
-**Q:** What is the general scholarly opinion on the act of hosting according to the text?
+**Type:** principle
 
-**A:** The majority of scholars consider hosting to be recommended (mustahab) and not obligatory (wajib), although it is viewed as a great and noble act.
+**Q:** What is the principle regarding responding to misfortune in Islam?
+
+**A:** When faced with misfortune, such as losing a job, one should actively seek solutions rather than passively accept it as qadar.
+
+**Context:** This principle emphasizes the importance of taking action in response to life's challenges while recognizing divine will.
 
 ---
 
 ## Card 42
 
-**Q:** What should a person do when they become angry, according to the teachings of the Prophet Muhammad (sallallahu ‘alayhi wasallam)?
+**Type:** definition
 
-**A:** A person should perform ablution, sit down, or lie down if necessary, and remain silent to avoid incorrect actions and speech.
+**Q:** What does 'Al-Fitrah' refer to in the context of human nature?
+
+**A:** Al-Fitrah refers to the natural disposition or innate qualities that enable humans to love what is good and hate what is evil.
+
+**Context:** Understanding Al-Fitrah is essential for recognizing the inherent moral inclinations within human beings.
+
+**Arabic:** الفطرة
+
+**Transliteration:** Al-Fitrah
 
 ---
 
 ## Card 43
 
-**Q:** What is the potential benefit of being patient towards others who have been harsh?
+**Type:** context
 
-**A:** It may lead them to think and change themselves to be better.
+**Q:** In what context is the concept of Ihsan applied according to the text?
+
+**A:** Ihsan is applied to all actions of a Muslim, emphasizing the importance of good conduct and intention in all aspects of life.
+
+**Context:** Understanding the application of Ihsan helps Muslims strive for moral excellence.
 
 ---
 
 ## Card 44
 
-**Q:** What is the significance of the hadith regarding the camel and how does it relate to the treatment of animals in Islam?
+**Type:** context
 
-**A:** The hadith illustrates that animals should not be overburdened and must be treated with care, as demonstrated when the Prophet Muhammad relayed the camel's complaint about being overworked and underfed. This reflects the Islamic principle of Ihsan, emphasizing mercy and ethical treatment towards animals.
+**Q:** In what context is the concept of Ihsan applied according to the text?
+
+**A:** Ihsan is applied to all actions of a Muslim, emphasizing the importance of good conduct and intention in all aspects of life.
+
+**Context:** Understanding the application of Ihsan helps Muslims strive for moral excellence.
 
 ---
 
 ## Card 45
 
-**Q:** What is the stance of some contemporary scholars on the use of mass destruction weapons by Muslims if used in response to enemies of Islam?
+**Type:** principle
 
-**A:** Some contemporary scholars say that Muslims are allowed to use mass destruction weapons only in response and as a counteract.
+**Q:** What is the key takeaway from the Prophet's warning against envy and hatred?
+
+**A:** Belief and love for one another are essential for entering paradise, and spreading peace among each other fosters this love.
+
+**Context:** This principle highlights the importance of community and positive relationships in Islam.
 
 ---
 
 ## Card 46
 
-**Q:** What are the key pieces of advice the Prophet Muhammad gives to Abdullah bin Abbas in the hadith?
+**Type:** principle
 
-**A:** Be mindful of Allah, and Allah will protect you; ask and seek help from Allah; understand that nothing can benefit or harm you except what Allah has recorded for you; know that victory comes with patience, relief with affliction, and ease with hardship.
+**Q:** What is a key takeaway regarding the concept of 'haya'?
+
+**A:** Both natural and acquired 'haya' are essential; the latter is developed through understanding Allah's glory and attributes.
+
+**Context:** This principle illustrates the importance of spiritual awareness in fostering moral behavior.
 
 ---
 
 ## Card 47
 
-**Q:** What are the two aspects of haya' mentioned in the text, and how is acquired haya' attained?
+**Type:** definition
 
-**A:** The two aspects of haya' are natural haya' and acquired haya'. Acquired haya' is attained as a result of knowing and realizing the Glory of Allah and His attributes.
+**Q:** What does 'Husnul-Istimaa' mean?
+
+**A:** 'Husnul-Istimaa' refers to good listening, which involves being attentive to the needs, feelings, and complaints of others.
+
+**Context:** This concept is important in communication and interpersonal relationships.
+
+**Arabic:** حسن الاستماع
+
+**Transliteration:** Husnul-Istimaa'
 
 ---
 
 ## Card 48
 
-**Q:** What are some negative consequences of distorted haya' (modesty) as mentioned in the text?
+**Type:** principle
 
-**A:** Distorted haya' can lead to higher chances of committing sins, neglecting obligations, and engaging in criminal activities, as well as using haya' to justify inaction against falsehood or oppression.
+**Q:** What is the principle regarding the love and hate of a believer in relation to Allah?
+
+**A:** A believer must love what Allah loves and hate what Allah hates to fulfill their obligations and attain additional rewards.
+
+**Context:** This principle emphasizes the importance of aligning one's feelings with divine guidance as a measure of true faith.
 
 ---
 
 ## Card 49
 
-**Q:** What are the four key concepts related to making a commitment in Islam as described in the text?
+**Type:** tarkeeb
 
-**A:** 1. Commitment (Musharatah) to steadfastness and adherence to Islam; 2. Continuous efforts (Mujahadah) to realize the commitment; 3. Continuous checking and reviewing of one's deeds (Muraqabah) to ensure honesty and accountability.
+**Q:** What is the grammatical structure of the phrase 'لَا يُبَالِي' (he does not care) in Arabic?
+
+**A:** The phrase 'لَا يُبَالِي' uses the negation 'لَا' followed by the verb 'يُبَالِي' (to care), indicating a lack of concern.
+
+**Context:** Understanding this structure aids in grasping how negation works in Arabic sentences.
+
+**Arabic:** لَا يُبَالِي
+
+**Transliteration:** la yubāli
 
 ---
 
 ## Card 50
 
-**Q:** What should educators and preachers consider when answering questions from new converts to Islam?
+**Type:** context
 
-**A:** They should take into account the background or status of the questioner, as different people may require different answers or approaches based on their cultural or environmental context.
+**Q:** What was the context of Mu'adh's question to the Prophet Muhammad?
+
+**A:** Mu'adh asked the Prophet about a deed that would ensure his entry into Paradise, reflecting his eagerness for good deeds.
+
+**Context:** This interaction illustrates the importance of seeking knowledge about righteous actions in Islam.
 
 ---
 
 ## Card 51
 
-**Q:** What does the term 'al-tuhur' refer to according to Al-Imam Ibn Rajab, and what are the reasons for this interpretation?
+**Type:** principle
 
-**A:** The term 'al-tuhur' refers to ritual purification by water (wudu'). Ibn Rajab supports this interpretation because another version of the hadith states that wudu' is 'half of iman', and Imam Muslim recorded the hadith in chapters related to ablution.
+**Q:** What is the importance of proof in the administration of justice?
+
+**A:** Proof is essential as it restrains false, weak, and unsubstantiated claims, placing the burden of proof on the plaintiff.
+
+**Context:** This principle is crucial in legal contexts to ensure fair adjudication.
 
 ---
 
 ## Card 52
 
-**Q:** What is the significance of al-Tahmid compared to al-Tasbih according to Ibn Rajab?
+**Type:** principle
 
-**A:** Al-Tahmid, which means praising and thanking Allah, is greater than al-Tasbih, which is glorifying Allah and denying any negative traits towards Him, indicating that being grateful to Allah is more important than merely glorifying Him.
+**Q:** What is the principle of Tadarruj in the context of forbidding evil?
+
+**A:** Tadarruj refers to the gradual method of addressing issues, exemplified by the step-by-step prohibition of wine in Islam.
+
+**Context:** This principle emphasizes the importance of a gradual approach to instilling moral values and prohibitions.
 
 ---
 
 ## Card 53
 
-**Q:** What does Sheikh al-Sa'di say about the obligation of dhikr Allah in his commentary on Surah al-Ahzab?
+**Type:** context
 
-**A:** Sheikh al-Sa'di states that dhikr Allah is an obligation that must be fulfilled.
+**Q:** What contemporary issue is highlighted regarding business transactions in Islam?
+
+**A:** Many business transactions today may contain implicit aspects of riba', leading to confusion about their acceptability.
+
+**Context:** This context points to the challenges Muslims face in navigating modern financial dealings in accordance with Islamic principles.
 
 ---
 
 ## Card 54
 
-**Q:** What is the significance of preserving the salah according to the hadith mentioned in the text?
+**Type:** tarkeeb
 
-**A:** Preserving the salah will lead to it interceding for the servant of Allah on the Day of Judgment and being a light, proof, and safe place for him.
+**Q:** What is the structure for expressing the importance of manners in eating in Arabic?
+
+**A:** The phrase 'adab' (manners) combined with eating signifies the Islamic etiquette that should be followed during meals.
+
+**Context:** The usage of 'adab' in relation to eating emphasizes the significance of manners in Islamic teachings.
 
 ---
 
 ## Card 55
 
-**Q:** What is the significance of overcoming greed for wealth in relation to iman, according to the text?
+**Type:** principle
 
-**A:** Overcoming greed for the sake of Allah indicates that a person has strong iman.
+**Q:** What can be learned from Imam Nawawi's life regarding educational dedication?
+
+**A:** Imam Nawawi's extensive writings in a short life exemplify the importance of dedication and commitment to knowledge.
+
+**Context:** His productivity highlights how focused effort can lead to significant contributions in a field.
 
 ---
 
 ## Card 56
 
-**Q:** What is the main purpose of the Qur'an according to contemporary scholars, as mentioned in the text?
+**Type:** tarkeeb
 
-**A:** The Qur'an is revealed for the living and not for those who have passed away.
+**Q:** What is the grammatical structure of 'al-Hamdulillah'?
+
+**A:** 'Al-Hamdulillah' is a phrase that combines the definite article 'al-' with 'Hamd' and 'lillah' to express gratitude.
+
+**Context:** This structure highlights the importance of attributing praise specifically to Allah.
+
+**Arabic:** الحمد لله
+
+**Transliteration:** al-Hamdulillah
 
 ---
 
 ## Card 57
 
-**Q:** What does Allah affirm about His nature regarding justice, as mentioned in several verses of the Qur'an?
+**Type:** principle
 
-**A:** Allah affirms His absolute justice and negates any form of injustice towards anyone, emphasizing that He does not wrong anyone, even by the weight of an atom.
+**Q:** What is the key takeaway from the hadith narrated by Umar bin al-Khattab regarding actions and intentions?
+
+**A:** Actions are judged by motives, meaning individuals will be rewarded based on their intentions behind those actions.
+
+**Context:** This principle emphasizes the importance of intentions in Islamic teachings.
 
 ---
 
 ## Card 58
 
-**Q:** Why is it important for Muslims to constantly show their need to Allah?
+**Type:** context
 
-**A:** Muslims should show their need to Allah at all times because they are inherently poor and needy, and Allah is the only One who does not need anything from anyone. This acknowledgment expresses gratitude and dependence on Allah for all aspects of life, which strengthens one's faith.
+**Q:** How are questions used in the Quran?
+
+**A:** The Quran contains over 1,200 questions that serve to provoke thought and encourage readers to reflect on the text.
+
+**Context:** This context highlights the pedagogical role of questions in religious texts for deepening understanding.
 
 ---
 
 ## Card 59
 
-**Q:** What is the source of misguidance according to the text, and how does it relate to Allah's will?
+**Type:** principle
 
-**A:** Misguidance is a result of a person's own will and choice, not from Allah's will, as Allah does not want individuals to be misguided. Misguidance stems from personal attitudes and behaviors, like arrogance, and Allah's misguidance may occur later as a punishment for those who choose to be misguided.
+**Q:** What is the significance of fasting specific days like Ashura' and Arafah in Islam?
+
+**A:** Fasting on specific days such as Ashura' and Arafah is significant for spiritual benefits and seeking intercession.
+
+**Context:** These fasting days are observed for their special status in Islamic tradition and the potential for divine intercession.
 
 ---
 
 ## Card 60
 
-**Q:** What should be the approach when trying to help someone, according to the text?
+**Type:** principle
 
-**A:** The approach should be with tolerance and patience, ensuring that the act is done with good intentions to be perceived positively.
+**Q:** What is the key principle regarding materialism mentioned in the text?
+
+**A:** One should not take more than what he needs and should avoid being weighed down by materialistic things or wealth.
+
+**Context:** This principle emphasizes the importance of moderation and simplicity in life.
 
 ---
 
 ## Card 61
 
-**Q:** What are the small bones in the hands and feet referred to in the context of their significance to human movement and civilization?
+**Type:** principle
 
-**A:** The small bones are referred to as 'salameh', and they enable human beings to move, grasp, construct, and build things, which are keys to the progress and civilization of man.
+**Q:** What is the importance of making a commitment in Islam according to the text?
+
+**A:** One must make a steadfast commitment to adhere to the principles of Islam and do things in the best way possible.
+
+**Context:** This principle highlights the importance of dedication and integrity in practicing one's faith.
 
 ---
 
 ## Card 62
 
-**Q:** According to the Prophet Muhammad, what is the definition of righteousness and sin?
+**Type:** principle
 
-**A:** Righteousness is good character, while sin is what wavers in your heart and what you do not want people to know about.
+**Q:** What is a key takeaway regarding the need for guidance in the text?
+
+**A:** We need Allah's guidance every second of the day, indicating its critical importance for our spiritual journey.
+
+**Context:** This principle emphasizes the constant reliance on divine guidance in a Muslim's life.
 
 ---
 
 ## Card 63
 
-**Q:** What is the proposed strategy to address the challenges faced by Muslims in the context of globalization, according to the text?
+**Type:** principle
 
-**A:** The strategy is to 'activate' and 'upgrade' the internal controlling system to help Muslims live their lives in tranquility and without confusion.
+**Q:** What is the key takeaway from the hadith narrated by Abu Muhammad al-Hasan regarding decision-making?
+
+**A:** The key takeaway is to avoid actions or decisions that are uncertain and instead pursue those that are certain.
+
+**Context:** This principle helps individuals make better choices by emphasizing clarity over doubt.
 
 ---
 
 ## Card 64
 
-**Q:** What does the Messenger of Allah advise regarding Taqwa, listening to rulers, and innovations in his farewell sermon?
+**Type:** principle
 
-**A:** He advises to have Taqwa of Allah, to listen and obey even if a slave is made a ruler, to observe his Sunnah and that of the rightly-guided successors, and to beware of innovations, stating that every innovation is an error.
+**Q:** What does Ibn Rajab argue regarding the meaning of 'al-tuhur'?
+
+**A:** Ibn Rajab argues that 'al-tuhur' refers to ritual purification by water (wudu') rather than just avoiding sins.
+
+**Context:** This principle is important in understanding Islamic purification practices and the significance of wudu' in faith.
 
 ---
 
 ## Card 65
 
-**Q:** What did Imam Malik advise against regarding actions that were not practiced by the Prophet Muhammad and his companions?
+**Type:** context
 
-**A:** Imam Malik advised against performing actions that had not been practiced by the Prophet Muhammad or his companions, such as hitting a stick against the side of the minaret before giving the adhan.
+**Q:** In what context is Al-Ihsan defined in the hadith?
+
+**A:** Al-Ihsan is defined as the highest level of Iman, where one worships Allah with the awareness that He sees us.
+
+**Context:** This emphasizes the importance of intention and consciousness in worship within Islamic teachings.
 
 ---
 
 ## Card 66
 
-**Q:** What did the Prophet Muhammad, sallallahu alayhi wasallam, emphasize about the consequences of speech in relation to accountability?
+**Type:** principle
 
-**A:** He indicated that the jests of people's tongues can lead to them being toppled into the Hell-fire, highlighting the seriousness of what one says.
+**Q:** What key principle regarding the heart and faith is emphasized in relation to Abu Bakr as-Sidiq?
+
+**A:** Every Muslim should care for and purify their heart, activating iman and practicing the principles of Tawhid.
+
+**Context:** This principle highlights the importance of a pure heart in strengthening one's faith and relationship with Allah.
 
 ---
 
 ## Card 67
 
-**Q:** What is the advised approach to feelings towards someone who you might like or dislike in the future?
+**Type:** definition
 
-**A:** You should like someone moderately because they might become someone you dislike, and when you dislike someone, you should dislike them moderately because they might become someone you like.
+**Q:** What does 'Fa'izun' mean in the context of success in Islam?
+
+**A:** Fa'izun refers to the most successful individuals, particularly in the context of achieving Allah's pleasure.
+
+**Context:** This term is significant as it highlights the ultimate goal of a Muslim's life.
+
+**Arabic:** فائزون
+
+**Transliteration:** Fa'izun
 
 ---
 
 ## Card 68
 
-**Q:** What did the Prophet Muhammad (sallallahu 'alayhi wasallam) compare the value of worldly life to, and what lesson can be derived from this comparison?
+**Type:** principle
 
-**A:** The Prophet compared worldly life to a dead animal or goat, illustrating that it is insignificant in the sight of Allah. The lesson is that Muslims should place more trust in Allah and focus on the rewards of the Hereafter rather than being overly attached to worldly possessions.
+**Q:** What is the key takeaway from the Hadith regarding adherence to tradition?
+
+**A:** One should observe the Sunnah and avoid newly introduced matters, as every innovation is considered an error.
+
+**Context:** This principle emphasizes the importance of following established traditions in Islam.
 
 ---
 
 ## Card 69
 
-**Q:** What are the three actions of the heart that define zuhd according to Ibn Rajab?
+**Type:** principle
 
-**A:** 1) Recognizing that all provisions come from Allah, 2) Not being bothered by worldly losses while seeking rewards, 3) Not caring for praise or blame from others.
+**Q:** What is considered harmful behavior when distributing inheritance according to Islamic teachings?
+
+**A:** Giving more to one inheritor than what is due or exceeding the prescribed limits is harmful and a major sin.
+
+**Context:** This principle emphasizes fairness and justice in the distribution of inheritance among heirs in Islam.
 
 ---
 
 ## Card 70
 
-**Q:** What is the concept of zuhdd and how does it relate to fulfilling community obligations?
+**Type:** principle
 
-**A:** Zuhd is the practice of performing actions with good intentions for the sake of Allah, which includes the betterment of the community as a form of worship, without neglecting one's obligations towards Allah.
+**Q:** What is the distinction between innovation that is kufr and one that is not?
+
+**A:** Innovation that is kufr leads to disbelief, while innovation that is not kufr is a sin but may be forgiven.
+
+**Context:** This principle is crucial for understanding the implications of innovation (bid'ah) in Islamic teachings.
 
 ---
 
 ## Card 71
 
-**Q:** What are the criteria mentioned for testing our love for Allah?
+**Type:** principle
 
-**A:** The criteria include loving the Prophet more than ourselves and our family, loving his sunnah, remembering Allah through all forms of dzikr, and practicing preferable good deeds.
+**Q:** What is the key principle about serving Allah according to the text?
+
+**A:** You should serve Allah as though you could see Him, realizing that He sees you even if you cannot see Him.
+
+**Context:** This principle emphasizes the importance of sincere worship and awareness of Allah's presence.
 
 ---
 
 ## Card 72
 
-**Q:** What is the key principle conveyed in the hadith related by Abu Sa'id regarding harm in Islam?
+**Type:** principle
 
-**A:** The key principle is that "There should be neither harming nor reciprocating harm."
+**Q:** What is the principle regarding repenting and good deeds in Islam?
+
+**A:** Repenting immediately for bad deeds and following them with good deeds is a means to remove the bad deeds.
+
+**Context:** This principle emphasizes the importance of repentance and good actions in seeking forgiveness for sins.
 
 ---
 
 ## Card 73
 
-**Q:** What is considered a major sin in relation to inheritance according to Ibn Abbas, and what is prohibited in Islam regarding the treatment of inheritors?
+**Type:** principle
 
-**A:** Favoring any one of the inheritors beyond their rightful share is considered a major sin and causes harm to immediate inheritors, as stated in the Qur'an.
+**Q:** What warning does the Prophet Muhammad give regarding unjustly taking someone else's property?
+
+**A:** He warns that even taking a small amount unjustly will lead to severe consequences on the Day of Judgment.
+
+**Context:** This principle emphasizes the seriousness of property rights in Islamic teachings.
 
 ---
 
 ## Card 74
 
-**Q:** According to Imam Malik, what is the consequence of selling an item at a price that exceeds a third of its worth?
+**Type:** principle
 
-**A:** It is considered harm and is prohibited.
+**Q:** What is an important principle regarding the remembrance of Allah?
+
+**A:** The remembrance of Allah should involve a match between what the tongue says and what the heart believes.
+
+**Context:** This principle emphasizes the sincerity of one's faith and devotion.
 
 ---
 
 ## Card 75
 
-**Q:** What is the primary responsibility of the plaintiff in a legal dispute according to the text?
+**Type:** principle
 
-**A:** The primary responsibility of the plaintiff is to bear the burden of proof, demonstrating their claims with evidence until a degree of certainty is achieved.
+**Q:** What is a key takeaway regarding the importance of time in one's life according to the text?
+
+**A:** One should be mindful of the fleeting nature of life and prepare for the future by performing good deeds.
+
+**Context:** This principle emphasizes the urgency of living righteously and making the most of one's time.
 
 ---
 
 ## Card 76
 
-**Q:** What does the Prophet Muhammad warn about in relation to taking someone else's property unjustly?
+**Type:** principle
 
-**A:** He warns that even taking as little as a spin of a palm of someone else's property will result in severe accountability on the Day of Judgment.
+**Q:** What is the definition of righteousness according to the hadith?
+
+**A:** Righteousness is described as good character and is associated with feelings of tranquility in the soul.
+
+**Context:** This principle emphasizes the importance of inner peace and moral integrity in determining righteousness.
 
 ---
 
 ## Card 77
 
-**Q:** What does Husnul-Istimaa' (Good listening) entail according to the text?
+**Type:** principle
 
-**A:** Husnul-Istimaa' involves the Caller being attentive to the needs, feelings, and complaints of the people he calls.
+**Q:** What is the key takeaway about helping others according to the text?
+
+**A:** Helping others should be done with tolerance and patience to ensure acceptance and positive perception.
+
+**Context:** This principle highlights the importance of a considerate approach when assisting others.
 
 ---
 
 ## Card 78
 
-**Q:** What are the three key principles of Inkaarul-Munkar (Forbidding what is evil)?
+**Type:** tarkeeb
 
-**A:** 1. Prioritize the evil, starting with higher priority; 2. Use a gradual approach (Tadarruj) as demonstrated in the prohibition of wine; 3. Avoid looking for people's faults, with exceptions for clear indications of wrongdoing.
+**Q:** What is the Arabic grammatical structure for indicating a claim?
+
+**A:** The structure involves using 'يَزْعُمُ' (yaz'umu) to denote the act of claiming or asserting something.
+
+**Context:** This structure is used in legal and formal contexts to present claims.
+
+**Arabic:** يَزْعُمُ
+
+**Transliteration:** yaz'umu
 
 ---
 
 ## Card 79
 
-**Q:** Why is envy (hasad) forbidden in Islam, and what consequences can it have?
+**Type:** principle
 
-**A:** Envy is forbidden in Islam because it can cause harm to others, even by just wishing it, and is considered an evil act. It is associated with Shaitan and is mentioned as a negative trait in certain verses of the Quran.
+**Q:** What is the recommended attitude towards envy according to Ibn Rajab?
+
+**A:** The recommended attitude is to stop envy, do good for the envied person, and pray for their well-being.
+
+**Context:** This principle encourages positive behavior and compassion towards others instead of harboring negative feelings.
 
 ---
 
 ## Card 80
 
-**Q:** What did the Prophet, sallallahu 'alayhi wasallam, say about the relationship between belief, love, and entering paradise?
+**Type:** context
 
-**A:** He stated that you will not enter paradise until you believe, and you will not believe until you love one another.
+**Q:** Why is 'dhikr Allah' important in Islam?
+
+**A:** 'Dhikr Allah' is the act of remembering Allah, which is commanded to be done frequently in the Qur'an.
+
+**Context:** It emphasizes the significance of constant remembrance and awareness of Allah in a Muslim's life.
 
 ---
 
 ## Card 81
 
-**Q:** What is the difference in meaning between "to relieve" and "to remove" in the context of helping a Muslim in distress, according to the hadith?
+**Type:** arabic_term
 
-**A:** "To relieve" means to minimize the difficulty or distress, whereas "to remove" means to totally eradicate the difficulty or hardship.
+**Q:** What does the term 'burhan' mean in Arabic and how is it used in the context of charity?
+
+**A:** 'Burhan' means 'proof' or 'evidence', emphasizing that charity is a clear proof of a believer's iman.
+
+**Context:** In Islamic teachings, 'burhan' is used to illustrate the significance of charity as a reflection of faith.
+
+**Arabic:** برهان
+
+**Transliteration:** burhān
 
 ---
 
 ## Card 82
 
-**Q:** According to Ibn Rajab, how should mistakes be treated for people who are not known for transgression?
+**Type:** principle
 
-**A:** Mistakes should be concealed and not talked about.
+**Q:** What metaphor does the Prophet use to describe the different responses of his ummah to the Message?
+
+**A:** The Prophet uses the metaphor of rain falling on different types of land, producing varying results.
+
+**Context:** This metaphor illustrates the varying levels of benefit individuals gain from the teachings of Islam.
 
 ---
 
 ## Card 83
 
-**Q:** What does Allah record when a person intends to do an evil deed but does not carry it out, according to the hadith?
+**Type:** principle
 
-**A:** Allah records it as a complete good deed.
+**Q:** What is the importance of fully expressing the phrase 'sallallahu 'alayhi wasallam' when mentioning the Prophet?
+
+**A:** It is encouraged to say it in full as an expression of respect and to avoid being considered greedy.
+
+**Context:** This principle emphasizes the significance of honoring the Prophet in Islamic tradition.
 
 ---
 
 ## Card 84
 
-**Q:** What do some scholars believe about punishment for having a bad intention if the sin does not involve impermissible speech?
+**Type:** principle
 
-**A:** Some scholars believe he will be punished just because of his bad intention.
+**Q:** What is a key takeaway regarding the use of time and effort according to the text?
+
+**A:** We should focus our time and effort on matters that benefit us and the ummah, avoiding distractions.
+
+**Context:** This principle emphasizes prioritizing meaningful activities over trivial concerns.
 
 ---
 
 ## Card 85
 
-**Q:** What is the misconception regarding the concept of wilayah in Islam as discussed in the text?
+**Type:** principle
 
-**A:** The misconception is that the attributes of a wali, or close servant of Allah, have been misunderstood and often do not align with the teachings of the Qur'an and hadith, leading to claims that may not reflect true closeness to Allah.
+**Q:** What key takeaway can be derived from the Prophet Muhammad's teaching about the impact of speech?
+
+**A:** People will be held accountable for their words, as harmful speech can lead to severe consequences.
+
+**Context:** This principle highlights the importance of being mindful of one's speech in Islamic teachings.
 
 ---
 
 ## Card 86
 
-**Q:** What does the hadith state about individuals who act out of forgetfulness or by mistake in relation to sinfulness and responsibility?
+**Type:** definition
 
-**A:** The hadith states that those who act out of forgetfulness or by mistake are excused from sinfulness, but it does not mean they are completely exempt from all responsibilities or rulings.
+**Q:** What does 'awliya' mean in the context of the Muslim community?
+
+**A:** 'Awliya' refers to the loyal and supportive relationship between believing men and women in Islam.
+
+**Context:** This term highlights the importance of mutual support and unity among Muslims as emphasized in the Qur'an.
+
+**Arabic:** أولياء
+
+**Transliteration:** awliya
 
 ---
 
 ## Card 87
 
-**Q:** What is the key concern regarding material possessions mentioned in the text?
+**Type:** principle
 
-**A:** The key concern is not to take more than what one needs and to avoid being weighed down by materialistic things or wealth.
+**Q:** What principle should guide Muslims in fulfilling obligations according to the text?
+
+**A:** Muslims should always choose the easier way to fulfill obligations, as Shariah is based on ease.
+
+**Context:** This principle encourages practitioners to avoid unnecessary hardship in religious practices.
 
 ---
 
 ## Card 88
 
-**Q:** What advice does Ibn 'Umar give regarding living life and preparing for the future?
+**Type:** principle
 
-**A:** Ibn 'Umar advises to not expect to live until the next day, to take advantage of good health for future illness, and to perform good deeds while one is still alive.
+**Q:** What are the two types of protection provided by Allah to His servants?
+
+**A:** Allah provides protection in worldly matters and protection of deen (religion) and iman (faith).
+
+**Context:** This principle highlights the comprehensive nature of Allah's protection over both physical and spiritual aspects of life.
 
 ---
 
 ## Card 89
 
-**Q:** What is the concept that helps Muslims minimize the chances of committing sins by devoting their hearts to Allah?
+**Type:** principle
 
-**A:** Tawhid
+**Q:** What is the principle regarding revealing mistakes of those who are generally known for good behavior?
+
+**A:** Mistakes committed by individuals known for good behavior should be concealed and not discussed.
+
+**Context:** This principle emphasizes the importance of protecting the reputation of those who are typically righteous.
+
+---
+
+## Card 90
+
+**Type:** principle
+
+**Q:** What is the recommended approach when educating people about the Sunnah?
+
+**A:** Start from the highest level of Sunnan and gradually introduce lower levels to avoid confusion.
+
+**Context:** This principle emphasizes the importance of building a solid foundation before delving into more detailed teachings.
+
+---
+
+## Card 91
+
+**Type:** principle
+
+**Q:** What is the key takeaway from the hadith about introducing new practices into Islam?
+
+**A:** Any practice that is introduced into Islam without a basis in its teachings is to be rejected.
+
+**Context:** This principle emphasizes the importance of adhering to authentic Islamic teachings and avoiding innovations.
+
+---
+
+## Card 92
+
+**Type:** principle
+
+**Q:** What is the principle regarding relieving or removing a Muslim's grief according to the hadith?
+
+**A:** The principle emphasizes that removing a difficulty is more rewarded than merely relieving it.
+
+**Context:** This principle highlights the importance of actively addressing and alleviating the hardships faced by Muslims.
+
+---
+
+## Card 93
+
+**Type:** tarkeeb
+
+**Q:** What does the Arabic term 'shatr' mean in the context of Islamic teachings?
+
+**A:** 'Shatr' means 'half' as it relates to the concept of purification being half of iman (faith).
+
+**Context:** Understanding this term is essential when discussing the significance of purification in relation to faith.
+
+**Arabic:** شطر
+
+**Transliteration:** shatr
+
+---
+
+## Card 94
+
+**Type:** principle
+
+**Q:** What key principle can be derived from Imam al-Bukhari's approach to compiling hadith in his book?
+
+**A:** The principle of ensuring transactions are free from doubt and are based on halal practices.
+
+**Context:** This principle is central to Islamic jurisprudence and ethical trading.
+
+---
+
+## Card 95
+
+**Type:** principle
+
+**Q:** What is a key takeaway regarding unity in Islam from the Qur'an?
+
+**A:** Muslims are urged to hold fast to the Rope of Allah and not to be divided among themselves.
+
+**Context:** This principle is crucial for maintaining the integrity and strength of the Muslim community.
+
+---
+
+## Card 96
+
+**Type:** principle
+
+**Q:** How do Al-Iman and Al-Islam relate to each other according to the text?
+
+**A:** Al-Iman and Al-Islam can be interchanged; weak Iman affects Al-Islam (good deeds/actions).
+
+**Context:** Understanding this relationship is crucial for comprehending Islamic teachings on faith and practice.
+
+---
+
+## Card 97
+
+**Type:** arabic_term
+
+**Q:** What does the term 'amanah' refer to in Islamic context?
+
+**A:** Amanah refers to religious obligations or trusts that individuals are expected to fulfill.
+
+**Context:** Understanding 'amanah' is crucial for comprehending the responsibilities of Muslims in their faith.
+
+**Arabic:** أمانة
+
+**Transliteration:** amanah
+
+---
+
+## Card 98
+
+**Type:** principle
+
+**Q:** What key principle can Muslims derive from Hadith 5 regarding their actions?
+
+**A:** Muslims can assess and evaluate their actions to ensure their rightness and acceptability.
+
+**Context:** This principle helps Muslims in fulfilling their daily religious obligations correctly.
+
+---
+
+## Card 99
+
+**Type:** principle
+
+**Q:** What is the principle regarding misguidance according to the text?
+
+**A:** Misguidance results from an individual's own choices and attitudes, not from Allah's will.
+
+**Context:** This principle emphasizes personal responsibility in one's spiritual journey.
+
+---
+
+## Card 100
+
+**Type:** principle
+
+**Q:** What is one way Muslims can show thankfulness to Allah according to the text?
+
+**A:** By doing charitable acts such as good deeds, helping others, and benefiting the community.
+
+**Context:** This principle emphasizes the importance of gratitude expressed through actions.
 
 ---
 
