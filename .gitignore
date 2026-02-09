@@ -23,6 +23,12 @@ ENV/
 .env.*
 !.env.example
 
+# Node
+node_modules/
+package-lock.json
+*.log
+npm-debug.log*
+
 # IDEs
 .vscode/
 .idea/
