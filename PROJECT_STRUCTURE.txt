@@ -1,0 +1,153 @@
+Islamic-Study-Tools/
+│
+├── backend/
+│   ├── api/                                    # Backend API Server
+│   │   ├── src/
+│   │   │   ├── config/
+│   │   │   │   └── supabase.ts                # Supabase client configuration
+│   │   │   ├── middleware/
+│   │   │   │   └── auth.ts                    # JWT authentication middleware
+│   │   │   ├── routes/
+│   │   │   │   ├── auth.ts                    # Auth verification routes
+│   │   │   │   ├── books.ts                   # Book metadata routes
+│   │   │   │   └── flashcards.ts              # Flashcard routes
+│   │   │   ├── types/
+│   │   │   │   └── flashcard.ts               # TypeScript type definitions
+│   │   │   └── server.ts                      # Main Express server
+│   │   ├── package.json                       # Backend dependencies
+│   │   ├── tsconfig.json                      # TypeScript configuration
+│   │   ├── .env.example                       # Environment variables template
+│   │   ├── .gitignore                         # Git ignore rules
+│   │   └── README.md                          # Backend documentation
+│   │
+│   ├── flashcard_generation/                  # Pre-generated flashcards
+│   │   ├── flashcards.json                    # 100 flashcards (JSON format)
+│   │   ├── flashcards.csv                     # 100 flashcards (CSV format)
+│   │   ├── flashcards.md                      # 100 flashcards (Markdown format)
+│   │   ├── fortyHadiths.pdf                   # Source book PDF
+│   │   ├── generate_flashcards.py             # Flashcard generation script
+│   │   ├── generate_embeddings.py             # Embedding generation script
+│   │   ├── chroma_db_nccn/                    # Vector database
+│   │   └── .env                               # OpenAI API key
+│   │
+│   └── requirements.txt                       # Python dependencies
+│
+├── frontend/                                   # React Frontend Application
+│   ├── src/
+│   │   ├── components/                        # Reusable React components
+│   │   │   ├── ProtectedRoute.tsx             # Auth-protected route wrapper
+│   │   │   ├── Header.tsx                     # Dashboard header
+│   │   │   └── Sidebar.tsx                    # Navigation sidebar
+│   │   ├── contexts/
+│   │   │   └── AuthContext.tsx                # Authentication context provider
+│   │   ├── lib/
+│   │   │   ├── supabase.ts                    # Supabase client
+│   │   │   └── api.ts                         # API client wrapper
+│   │   ├── pages/                             # Page components
+│   │   │   ├── SignUp.tsx                     # User registration
+│   │   │   ├── SignIn.tsx                     # User login
+│   │   │   ├── VerifyEmail.tsx                # Email OTP verification
+│   │   │   ├── Dashboard.tsx                  # Main dashboard layout
+│   │   │   ├── Flashcards.tsx                 # Flashcard generation page
+│   │   │   └── FlashcardViewer.tsx            # Flashcard study interface
+│   │   ├── types/
+│   │   │   └── index.ts                       # TypeScript type definitions
+│   │   ├── App.tsx                            # Main app component & routing
+│   │   ├── main.tsx                           # React entry point
+│   │   └── index.css                          # Global styles (Tailwind)
+│   ├── public/                                # Static assets
+│   ├── package.json                           # Frontend dependencies
+│   ├── vite.config.ts                         # Vite configuration
+│   ├── tailwind.config.js                     # Tailwind CSS configuration
+│   ├── postcss.config.js                      # PostCSS configuration
+│   ├── tsconfig.json                          # TypeScript configuration
+│   ├── tsconfig.node.json                     # TypeScript node configuration
+│   ├── index.html                             # HTML entry point
+│   ├── .env.example                           # Environment variables template
+│   ├── .gitignore                             # Git ignore rules
+│   └── README.md                              # Frontend documentation
+│
+├── docs/                                       # Documentation
+│   ├── README.md                              # Complete project documentation
+│   ├── QUICK_START.md                         # 10-minute setup guide
+│   ├── SUPABASE_SETUP.md                      # Supabase configuration guide
+│   ├── DEPLOYMENT.md                          # Production deployment guide
+│   ├── FEATURES.md                            # Feature overview
+│   └── ARCHITECTURE.md                        # Technical architecture
+│
+├── .git/                                       # Git repository
+├── .gitignore                                  # Root Git ignore
+├── .vscode/                                    # VS Code settings
+├── README.md                                   # Project overview
+├── MVP_SUMMARY.md                              # Implementation summary
+├── CHECKLIST.md                                # Testing checklist
+├── COMMANDS.md                                 # Command reference
+└── PROJECT_STRUCTURE.txt                       # This file
+
+Key Files Explained:
+====================
+
+Backend:
+--------
+- server.ts              : Express server with routes and middleware
+- auth.ts (middleware)   : Verifies JWT tokens from Supabase
+- flashcards.ts (route)  : API endpoints for flashcard operations
+- supabase.ts (config)   : Supabase client initialization
+
+Frontend:
+---------
+- App.tsx                : Main app with routing configuration
+- AuthContext.tsx        : Global authentication state & methods
+- ProtectedRoute.tsx     : Wraps routes requiring authentication
+- Dashboard.tsx          : Layout with header, sidebar, and content
+- Flashcards.tsx         : Book display and generation interface
+- FlashcardViewer.tsx    : Card flip and navigation interface
+
+Configuration:
+--------------
+- .env (backend)         : Supabase keys, port, CORS settings
+- .env (frontend)        : Supabase keys, API URL
+- package.json           : Dependencies and scripts
+- tsconfig.json          : TypeScript compiler options
+- tailwind.config.js     : Tailwind CSS theme customization
+
+Data:
+-----
+- flashcards.json        : 100 pre-generated flashcards
+- fortyHadiths.pdf       : Source book (2.2 MB)
+- chroma_db_nccn/        : Vector embeddings for AI features
+
+Important Notes:
+================
+
+1. The backend reads flashcards from JSON files (no AI generation in MVP)
+2. User state is stored in Supabase database
+3. Authentication is handled by Supabase
+4. Frontend uses React Router for navigation
+5. Tailwind CSS for styling
+6. TypeScript throughout for type safety
+7. Environment variables required for both backend and frontend
+
+File Counts:
+============
+- Backend TypeScript files: 6
+- Frontend TypeScript/TSX files: 14
+- Configuration files: 12
+- Documentation files: 11
+- Total lines of code: ~3,500+
+
+Getting Started:
+===============
+1. Read docs/QUICK_START.md
+2. Set up Supabase (docs/SUPABASE_SETUP.md)
+3. Configure environment variables
+4. Run: cd backend/api && npm run dev
+5. Run: cd frontend && npm run dev
+6. Open: http://localhost:5173
+
+For Help:
+=========
+- Full docs: docs/README.md
+- Commands: COMMANDS.md
+- Checklist: CHECKLIST.md
+- Summary: MVP_SUMMARY.md
