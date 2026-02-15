@@ -4,11 +4,11 @@ import Sidebar from '@/components/Sidebar';
 
 const Dashboard = () => {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-gray-50 via-white to-gray-100">
+    <div className="min-h-screen bg-gray-50">
       <Header />
       <div className="flex">
         <Sidebar />
-        <main className="flex-1 p-12 max-w-[1400px]">
+        <main className="flex-1 p-8 overflow-auto">
           <Outlet />
         </main>
       </div>
