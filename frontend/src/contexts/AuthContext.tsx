@@ -1,6 +1,6 @@
 import React, { createContext, useContext, useEffect, useState } from 'react';
-import { User as SupabaseUser } from '@supabase/supabase-js';
 import { supabase } from '@/lib/supabase';
+import { api } from '@/lib/api';
 import { User } from '@/types';
 
 interface AuthContextType {
@@ -9,8 +9,8 @@ interface AuthContextType {
   signUp: (email: string, password: string) => Promise<void>;
   signIn: (email: string, password: string) => Promise<void>;
   signOut: () => Promise<void>;
-  verifyOTP: (email: string, token: string) => Promise<void>;
-  resendOTP: (email: string) => Promise<void>;
+  verifyEmail: (email: string, code: string) => Promise<void>;
+  resendCode: (email: string) => Promise<void>;
 }
 
 const AuthContext = createContext<AuthContextType | undefined>(undefined);
@@ -58,38 +58,8 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
   }, []);
 
   const signUp = async (email: string, password: string) => {
-    // Use backend API to create user (bypasses email confirmation)
-    try {
-      await fetch(`${import.meta.env.VITE_API_URL}/auth/signup`, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ email, password }),
-      }).then(async (res) => {
-        if (!res.ok) {
-          const error = await res.json().catch(() => ({ error: 'Unknown error' }));
-          throw new Error(error.error || 'Failed to create account');
-        }
-        return res.json();
-      });
-    } catch (error: any) {
-      // If user already exists, try signing in
-      if (error.message.includes('already exists')) {
-        const { error: signInError } = await supabase.auth.signInWithPassword({
-          email,
-          password,
-        });
-        if (!signInError) return; // Successfully signed in
-      }
-      throw error;
-    }
-
-    // Sign in after successful signup
-    const { error: signInError } = await supabase.auth.signInWithPassword({
-      email,
-      password,
-    });
-
-    if (signInError) throw signInError;
+    // Sends verification code to email - does NOT create user yet
+    await api.signUp(email, password);
   };
 
   const signIn = async (email: string, password: string) => {
@@ -106,26 +76,13 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
     if (error) throw error;
   };
 
-  const verifyOTP = async (email: string, token: string) => {
-    const { error } = await supabase.auth.verifyOtp({
-      email,
-      token,
-      type: 'magiclink', // Use magiclink type for OTP verification
-    });
-
-    if (error) throw error;
+  const verifyEmail = async (email: string, code: string) => {
+    // Backend verifies code and creates the user in Supabase
+    await api.verifyEmail(email, code);
   };
 
-  const resendOTP = async (email: string) => {
-    // Use signInWithOtp to send a new OTP code
-    const { error } = await supabase.auth.signInWithOtp({
-      email,
-      options: {
-        shouldCreateUser: false,
-      }
-    });
-
-    if (error) throw error;
+  const resendCode = async (email: string) => {
+    await api.resendCode(email);
   };
 
   const value = {
@@ -134,8 +91,8 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
     signUp,
     signIn,
     signOut,
-    verifyOTP,
-    resendOTP,
+    verifyEmail,
+    resendCode,
   };
 
   return <AuthContext.Provider value={value}>{children}</AuthContext.Provider>;

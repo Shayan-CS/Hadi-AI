@@ -29,6 +29,22 @@ async function fetchWithAuth(url: string, options: RequestInit = {}) {
   return response.json();
 }
 
+function fetchPublic(url: string, options: RequestInit = {}) {
+  return fetch(`${API_URL}${url}`, {
+    ...options,
+    headers: {
+      'Content-Type': 'application/json',
+      ...options.headers,
+    },
+  }).then(async (res) => {
+    if (!res.ok) {
+      const error = await res.json().catch(() => ({ error: 'Unknown error' }));
+      throw new Error(error.error || `HTTP ${res.status}`);
+    }
+    return res.json();
+  });
+}
+
 export const api = {
   // Books
   getBook: (bookId: string) => fetchWithAuth(`/books/${bookId}`),
@@ -42,16 +58,19 @@ export const api = {
 
   // Auth
   signUp: (email: string, password: string) =>
-    fetch(`${API_URL}/auth/signup`, {
+    fetchPublic('/auth/signup', {
       method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ email, password }),
-    }).then(async (res) => {
-      if (!res.ok) {
-        const error = await res.json().catch(() => ({ error: 'Unknown error' }));
-        throw new Error(error.error || `HTTP ${res.status}`);
-      }
-      return res.json();
+    }),
+  verifyEmail: (email: string, code: string) =>
+    fetchPublic('/auth/verify-email', {
+      method: 'POST',
+      body: JSON.stringify({ email, code }),
+    }),
+  resendCode: (email: string) =>
+    fetchPublic('/auth/resend-code', {
+      method: 'POST',
+      body: JSON.stringify({ email }),
     }),
   verifyAuth: () => fetchWithAuth('/auth/verify'),
 };
